@@ -1,5 +1,5 @@
 # Code de justice militaire (nouveau)  
-Version Consolidée au 2007-12-22
+Version Consolidée au 2008-07-13
 
 # Partie législative
 
@@ -20531,5 +20531,1726 @@ Les fonctions de secrétaire et de greffier de la commission sont remplies par u
 	**Codifié par**:
 
 	  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
+
+
+# Partie réglementaire : Décrets simples
+
+## LIVRE Ier : ORGANISATION ET COMPETENCE DE LA JUSTICE MILITAIRE
+
+### TITRE Ier : ORGANISATION
+
+#### Chapitre Ier : Du tribunal aux armées
+
+##### Section 1 : Etablissement
+
+###### Article D111-2
+
+Le tribunal aux armées de Paris comprend deux chambres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2014-749 du 30 juin 2014 - art. 1
+
+
+###### Article D111-3
+
+Les attributions de la chambre de l'instruction du tribunal aux armées de Paris sont exercées par la chambre de l'instruction
+de la cour d'appel de Paris.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2014-749 du 30 juin 2014 - art. 1
+
+
+##### Section 2 : Personnels
+
+##### Sous-section 1 : Du chef du parquet
+
+###### Article D111-4
+
+Le chef du parquet est le chef de l'administration de la juridiction des forces armées à laquelle il est affecté. Responsable
+du fonctionnement de celle-ci, il exerce son autorité sur le personnel du greffe et assure sous le contrôle du ministère de
+la défense la gestion des dépenses de fonctionnement courant de la juridiction. Dans le cadre de ces attributions, il vise
+les pièces administratives, les expéditions et les extraits délivrés aux requérants, procède ou fait procéder à toutes
+vérifications d'écriture et au recensement du matériel. 
+
+En cas d'absence, ses attributions sont dévolues au magistrat affecté au service du parquet ou de l'instruction le plus
+ancien dans le grade le plus élevé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2014-749 du 30 juin 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D112-22 (V)
+
+
+##### Sous-section 2 : Du chef du service du greffe
+
+###### Article D111-5
+
+L'officier greffier, chef du service du greffe, est chargé de la gestion administrative de la juridiction des forces armées. 
+
+Il tient la comptabilité des opérations de recettes et de dépenses dont il est chargé par le code de procédure pénale, le
+code de justice militaire, les lois et règlements dans la forme prévue pour les régies d'avances et les régies de recettes de
+l'Etat. 
+
+En qualité de régisseur d'avances et de recettes, il dispose d'une caisse, d'un compte de dépôts de fonds au Trésor. Pour
+toutes les opérations qu'il effectue en cette qualité, il est tenu aux garanties et encourt les responsabilités prévues par
+le décret n° 66-850 du 15 novembre 1966 relatif à la responsabilité personnelle et pécuniaire des régisseurs. 
+
+Il gère le matériel appartenant à l'Etat mis à la disposition de la juridiction. 
+
+Il fait tenir les registres, catalogues, pièces administratives servant à la justification des recettes et des dépenses, à
+l'inventaire des matériels et des ouvrages, au classement des archives, à l'enregistrement des appels, référés, requêtes et
+pourvois en cassation, à la transcription des jugements et ordonnances de non-lieu, incompétence et dessaisissement, ainsi
+qu'à la constatation des entrées et sorties des pièces à conviction. 
+
+Les surcharges, interlignes et grattages sont interdits. Les ratures et les renvois sont approuvés par le greffier. 
+
+Il fait établir et certifie conformes aux originaux les expéditions et extraits de pièces. Il les délivre, après visa du
+commissaire du Gouvernement, lorsque leur remise a été autorisée. Les copies ne sont ni visées ni certifiées conformes. 
+
+En cas d'absence ou empêchement de l'officier greffier, ses attributions, en matière de gestion de la régie d'avances et de
+la régie de recettes, peuvent être confiées à l'officier greffier adjoint ou à l'un des commis greffiers placés sous ses
+ordres, désigné par le chef du parquet avec l'agrément de l'officier greffier.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°66-850 du 15 novembre 1966
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2014-749 du 30 juin 2014 - art. 1
+
+
+##### Section 3 : Serment
+
+###### Article D111-6
+
+Les officiers et sous-officiers greffiers et les sous-officiers huissiers-appariteurs, lors de leur nomination dans le corps
+et avant d'entrer en fonctions, prêtent, à la première audience de la juridiction des forces armées à laquelle ils sont
+affectés, le serment suivant :  Je jure de bien et loyalement remplir mes fonctions et d'observer tous les devoirs qu'elles
+m'imposent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2014-749 du 30 juin 2014 - art. 1
+
+
+#### Chapitre II : Des juridictions des forces armées en temps de guerre
+
+##### Section 1 : Statuts particuliers des corps spéciaux et d'assimilés spéciaux
+
+##### Sous-section 1 : Le corps spécial des magistrats
+
+###### Article D112-1
+
+Les magistrats du corps spécial des magistrats du service de la justice militaire exercent des fonctions au sein des
+juridictions des forces armées, en temps de guerre et dans les autres cas où est décrétée l'application des dispositions du
+code de justice militaire relatives au temps de guerre. 
+
+Ils sont appelés à occuper, dans les juridictions mentionnées à l'alinéa précédent, les emplois de magistrat du parquet et de
+l'instruction, ainsi que, dans les tribunaux militaires aux armées, les emplois de président de la juridiction de jugement et
+de président de la chambre de contrôle de l'instruction. Ils peuvent, en outre, occuper des emplois de magistrat à
+l'administration centrale de la justice militaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D112-2
+
+Les magistrats du corps spécial sont admis dans ce corps, sous réserve des dispositions de l'article 6 de la loi n° 66-1037
+du 29 décembre 1966 modifiée relative à l'exercice des fonctions judiciaires militaires, sur demande agréée par le ministre
+chargé des armées, au titre d'une affectation dans la disponibilité ou la réserve militaire, parmi les magistrats du corps
+judiciaire. 
+
+Après constatation de leur aptitude au service de la justice militaire, ils sont affectés dans le corps spécial par arrêté du
+ministre chargé des armées après avis du garde des sceaux, ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-1037 du 29 décembre 1966 - art. 6
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D112-3
+
+Des grades propres au corps spécial sont, sous réserve des dispositions de l'article D. 112-4, attribués aux magistrats en
+fonction de leur rang dans la hiérarchie judiciaire. 
+
+La correspondance entre la hiérarchie du corps spécial, celle du corps judiciaire et celle des grades de la hiérarchie
+militaire générale est fixée dans le tableau ci-dessous. 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+HIÉRARCHIE 
+
+du corps judiciaire 
+
+</th>
+      <th>
+
+HIÉRARCHIE 
+
+du corps spécial 
+
+</th>
+      <th>
+
+HIÉRARCHIE 
+
+militaire générale 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Magistrat hors hiérarchie. 
+
+</td>
+      <td align="center">
+
+Magistrat général. 
+
+</td>
+      <td align="center">
+
+Général de brigade. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Magistrat du premier grade au-delà du 6e échelon. 
+
+</td>
+      <td align="center">
+
+Magistrat général ou magistrat de 1re classe. 
+
+</td>
+      <td align="center">
+
+Général de brigade ou colonel. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Magistrat du premier grade (5e et 6e échelon). 
+
+</td>
+      <td align="center">
+
+Magistrat de 1re classe. 
+
+</td>
+      <td align="center">
+
+Colonel. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Magistrat du premier grade jusqu'au 4e échelon. 
+
+</td>
+      <td align="center">
+
+Magistrat de 2e classe. 
+
+</td>
+      <td align="center">
+
+Lieutenant-colonel. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Magistrat du second grade. 
+
+</td>
+      <td align="center">
+
+Magistrat de 3e classe. 
+
+</td>
+      <td align="center">
+
+Commandant. 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Le grade d'assimilation est attribué à l'intéressé lorsqu'il reçoit une affectation dans le corps spécial.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - Code de justice militaire. - art. D112-4
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D112-5 (V)
+
+
+###### Article D112-4
+
+Les magistrats appartenant aux cadres de réserve d'un autre corps statutaire de l'armée professionnelle ne peuvent, quel que
+soit leur rang dans la hiérarchie judiciaire, être nommés dans la hiérarchie du corps spécial à un grade inférieur au grade
+correspondant détenu dans cette autre réserve.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D112-3 (V)
+
+
+###### Article D112-5
+
+L'avancement que les magistrats reçoivent dans le corps judiciaire emporte leur reclassement dans la hiérarchie du corps
+spécial suivant les dispositions de l'article D. 112-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - Code de justice militaire. - art. D112-3
+
+
+###### Article D112-6
+
+La limite d'âge des magistrats du corps spécial est fixée à cinquante ans. Toutefois, sur demande agréée par le ministre
+chargé des armées, ils peuvent être maintenus dans les cadres jusqu'à l'âge de soixante ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D112-10 (V)
+	  - Code de justice militaire. - art. D112-20 (V)
+
+
+###### Article D112-7
+
+Lors de l'appel à l'activité du corps spécial, les magistrats acquièrent la qualité de militaire. 
+
+Dans l'exercice de leurs fonctions juridictionnelles, il ne peut être porté atteinte à l'indépendance des présidents et des
+juges d'instruction. 
+
+Ils n'exercent de commandement qu'à l'intérieur de leur formation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D112-8
+
+Les magistrats du corps spécial perçoivent la solde et les accessoires de solde des officiers de réserve et assimilés qui
+sont rappelés sous les drapeaux ou convoqués pour des périodes d'exercice ou des séances d'instruction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D112-9
+
+Les magistrats du corps spécial concourent dans les mêmes conditions que les officiers de réserve pour la nomination et
+l'avancement dans les Ordres nationaux de la Légion d'honneur et du Mérite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D112-10
+
+Les magistrats sont rayés des cadres du corps spécial par décision du ministre chargé des armées :
+
+- lorsqu'ils atteignent la limite d'âge fixée à l'article D. 112-6 ;
+
+- lorsqu'ils cessent définitivement d'exercer leurs fonctions judiciaires dans les conditions prévues par le statut de la
+magistrature ;
+
+- sur leur demande, agréée par le ministre chargé des armées ;
+
+- pour inaptitude médicalement établie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - Code de justice militaire. - art. D112-6
+
+
+###### Article D112-11
+
+Les magistrats qui cessent d'appartenir au corps spécial réintègrent, le cas échéant, les cadres de réserve d'un autre corps
+statutaire de l'armée professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+##### Sous-section 2 : Du cadre des officiers défenseurs assimilés spéciaux
+
+###### Article D112-12
+
+Les officiers défenseurs assimilés spéciaux du service de la justice militaire assurent la défense des justiciables des
+tribunaux militaires aux armées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D112-13
+
+Les officiers défenseurs sont recrutés, sur demande agréée par le ministre chargé des armées, au titre d'une affectation dans
+la disponibilité ou la réserve du service militaire, parmi les avocats inscrits à un barreau. 
+
+Après constatation de leur aptitude au service de la justice militaire, ils sont admis dans le cadre des officiers défenseurs
+assimilés spéciaux par arrêté du ministre chargé des armées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D112-14
+
+Des grades propres au cadre des officiers défenseurs sont, sous réserve des dispositions de l'article D. 112-15, attribués
+aux officiers défenseurs compte tenu de la durée d'exercice effectif par les intéressés de la profession d'avocat depuis leur
+inscription au tableau d'un barreau. 
+
+La correspondance entre la hiérarchie du cadre des officiers défenseurs assimilés spéciaux de la justice militaire et les
+grades de la hiérarchie militaire générale est fixée dans le tableau ci-dessous : 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+GRADES DU CADRE 
+
+des officiers défenseurs 
+
+</th>
+      <th>
+
+DURÉE D'EXERCICE 
+
+effectif de la 
+
+profession d'avocat 
+
+</th>
+      <th>
+
+GRADES MILITAIRES 
+
+correspondants 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Officier défenseur de 1re classe. 
+
+</td>
+      <td align="center">
+
+Supérieure à 24 ans. 
+
+</td>
+      <td align="center">
+
+Colonel. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Officier défenseur de 2e classe. 
+
+</td>
+      <td align="center">
+
+Entre 16 et 24 ans. 
+
+</td>
+      <td align="center">
+
+Lieutenant-colonel. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Officier défenseur de 3e classe. 
+
+</td>
+      <td align="center">
+
+Entre 8 et 16 ans. 
+
+</td>
+      <td align="center">
+
+Commandant. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Officier défenseur. 
+
+</td>
+      <td align="center">
+
+Inférieure à 8 ans. 
+
+</td>
+      <td align="center">
+
+Capitaine. 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Le grade d'assimilation n'est détenu par les intéressés que pour autant qu'ils soient titulaires d'une affectation dans le
+cadre des officiers défenseurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - Code de justice militaire. - art. D112-15
+
+
+###### Article D112-15
+
+Les avocats appartenant aux cadres de réserve d'un autre corps statutaire de l'armée professionnelle ne peuvent, quelle que
+soit la durée d'exercice effectif de la profession d'avocat depuis leur inscription au tableau d'un barreau, être nommés dans
+la hiérarchie du cadre des officiers défenseurs à un grade d'assimilation inférieur au grade détenu dans cette autre réserve.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D112-14 (V)
+
+
+###### Article D112-16
+
+La limite d'âge des officiers défenseurs est fixée à cinquante-cinq ans. 
+
+Toutefois, sur demande agréée par le ministre chargé des armées, ils peuvent être maintenus dans les cadres jusqu'à l'âge de
+cinquante-cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D112-17
+
+Lors de l'appel à l'activité du cadre des officiers défenseurs assimilés spéciaux dans les conditions prévues par l'article
+L. 83 du code du service national, les officiers défenseurs prennent la qualité de militaire. Ils ne relèvent que du ministre
+chargé des armées sans qu'il puisse être porté atteinte à leur indépendance dans l'exercice de leurs fonctions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - Code du service national - art. L83 (V)
+
+
+###### Article D112-18
+
+Les officiers défenseurs perçoivent la solde et les accessoires de solde des officiers de réserve et assimilés, rappelés sous
+les drapeaux ou convoqués pour des périodes d'exercice ou des séances d'instruction, dans les conditions prévues par les
+règlements en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D112-19
+
+Les officiers défenseurs concourent dans les mêmes conditions que les officiers de réserve pour la nomination dans les ordres
+nationaux de la Légion d'honneur et du Mérite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D112-20
+
+Outre les cas dans lesquels ils peuvent être relevés de leur emploi dans les conditions prévues par l'article L. 83 du code
+du service national, les officiers défenseurs sont rayés des cadres par décision du ministre chargé des armées :
+
+- lorsqu'ils atteignent la limite d'âge fixée par l'article D. 112-6 ;
+
+- lorsqu'ils cessent d'être inscrits au tableau d'un barreau ;
+
+- sur leur demande, agréée par le ministre chargé des armées ;
+
+- pour inaptitude médicalement établie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - Code du service national - art. L83 (V)
+	  - Code de justice militaire. - art. D112-6 (V)
+
+
+###### Article D112-21
+
+Les officiers défenseurs qui cessent d'appartenir au cadre des assimilés spéciaux réintègrent, le cas échéant, les cadres de
+réserve d'un autre corps statutaire de l'armée professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+##### Section 2 : Du chef du parquet et du chef du service du greffe
+
+###### Article D112-22
+
+Les dispositions des articles D. 111-4 et D. 111-5 sont applicables respectivement au chef du parquet et au chef du service
+du greffe de la juridiction des forces armées du temps de guerre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - Code de justice militaire. - art. D111-4
+
+
+## LIVRE II : PROCÉDURE PÉNALE MILITAIRE
+
+### TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION
+
+#### Chapitre Ier : En temps de paix et hors du territoire de la République
+
+###### Article D211-1
+
+L'autorité militaire chargée de désigner l'établissement dans lequel est conduit, conformément aux dispositions de l'article
+L. 211-21, la personne mise en examen, le prévenu ou le condamné dans les cas où il est impossible de le détenir dans une
+maison d'arrêt ou une prison prévôtale est l'autorité militaire prévue aux articles L. 112-2, L. 112-28, L. 112-29 et au
+premier alinéa de l'article L. 211-1. 
+
+Le régime de détention appliqué dans l'établissement ainsi désigné est fixé par les articles ci-après.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D212-47 (V)
+
+	**Cite**:
+
+	  - Code de justice militaire. - art. L112-2
+	  - Code de justice militaire. - art. L112-28
+	  - Code de justice militaire. - art. L211-1
+	  - Code de justice militaire. - art. L211-21
+
+
+###### Article D211-2
+
+L'incarcération n'est possible que sur présentation d'un titre de détention régulier. 
+
+La détention a lieu dans les locaux d'arrêts pour les hommes du rang, dans les chambres d'arrêts individuelles pour les
+officiers, sous-officiers et pour tout détenu dont l'isolement est nécessaire, soit parce qu'il s'agit d'une personne
+étrangère aux armées ou d'une personne du sexe féminin, ou lorsque la cohabitation avec d'autres détenus risque d'être
+néfaste.L'appréciation de cette nécessité appartient au juge. 
+
+Lorsque la situation impose le bivouac, la détention s'effectue dans une baraque, sous une tente ou dans un autre local. Des
+mesures particulières sont prises pour en assurer l'isolement et la sécurité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D211-3
+
+La garde des détenus est effectuée par le service de garde de la formation administrative ou de l'unité dont dépendent les
+locaux désignés pour l'incarcération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D211-4
+
+Le chef de poste tient deux registres d'écrou : l'un pour les militaires, l'autre pour les personnes étrangères aux armées.
+Les registres sont cotés et paraphés par le commandant d'unité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D211-5
+
+A leur entrée dans les locaux ci-dessus définis les individus sont fouillés soigneusement par une personne de leur sexe ; les
+objets qui pourraient présenter quelque danger entre leurs mains leur sont enlevés ; un inventaire est établi par le chef de
+poste en présence de l'intéressé et signé concurremment par eux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D211-6
+
+Les fonds détenus par les individus visés à l'article précédent leur sont retirés. Leur montant est inscrit sur un registre
+de compte courant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D211-7
+
+Les détenus sont pris en subsistance par l'unité dont dépendent les locaux servant d'établissement pénitentiaire. 
+
+Les règles d'hygiène applicables aux militaires punis disciplinairement s'appliquent aux détenus. 
+
+Le chef de poste est responsable de tout ce qui concerne le service des locaux. Il prend, pour empêcher les évasions, les
+mesures qu'il juge nécessaires. Des appels ont lieu chaque jour. Des rondes sont faites la nuit. 
+
+Les jeux de hasard, les chants et manifestations bruyantes sont interdits. Les lettres qu'écrivent ou reçoivent les détenus
+sont lues par le commandant d'unité. Elles sont communiquées au magistrat saisi du dossier de l'information dans les
+conditions que celui-ci détermine. La correspondance des détenus avec leur défenseur régulièrement choisi ou désigné est
+libre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D211-8
+
+Les visites faites aux détenus sont autorisées par le chef d'état-major de la grande unité dont relève la formation
+administrative qui assure les incarcérations. 
+
+Toutefois, ont libre accès dans les locaux servant à la détention : 
+
+1° Le juge d'instruction militaire ; 
+
+2° Les défenseurs du détenu munis d'une attestation du ministère public ; 
+
+3° Le général commandant la grande unité et son chef d'état-major ; 
+
+4° Le procureur de la République ou le commissaire du Gouvernement ; 
+
+5° Les aumôniers et les autres ministres du culte spécialement autorisés ; 
+
+6° Le médecin de la formation ; 
+
+7° Le commandant de la formation administrative et le commandant d'unité dont dépendent les locaux ; 
+
+8° Les membres des corps militaires de contrôle ; 
+
+9° Les commissaires chargés de la vérification des comptes de l'unité nourricière ; les détenus communiquent avec leur
+défenseur hors la présence d'un surveillant ; 
+
+10° Les députés et les sénateurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D211-9
+
+Les détenus qui doivent être conduits devant les magistrats instructeurs ou devant la juridiction saisie sont extraits des
+locaux sur le vu d'un ordre d'extraction délivré par les magistrats compétents.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D211-10
+
+En cas de décès d'un détenu dans les locaux servant d'établissement pénitentiaire, le chef de poste en rend compte
+immédiatement à l'autorité qui a établi le titre de détention. Il fait mention du décès sur le registre d'écrou. 
+
+Il adresse un compte rendu au commandant d'unité dont il relève.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D211-11
+
+En cas d'évasion d'un détenu, le chef de poste en avise immédiatement l'autorité qui a établi le titre de détention ainsi que
+le commandant d'unité dont il relève.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D211-12
+
+Lorsque les détenus quittent les lieux de détention, leurs comptes sont arrêtés.S'ils sont rendus à la liberté, l'argent leur
+est remis après décharge par leur signature sur le registre.S'ils sont transférés, les fonds sont remis aux gendarmes chargés
+du transfèrement, qui signent le registre des comptes courants et le registre d'écrou. 
+
+En cas d'évasion ou de décès, le montant du compte courant de l'intéressé est versé à la Caisse des dépôts et consignations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D211-13
+
+Lorsque, à la suite d'un non-lieu, d'un acquittement, d'une condamnation avec sursis ou d'une suspension de peine, les
+détenus sont remis en liberté, les effets et objets qui leur avaient été enlevés à leur entrée leur sont rendus : décharge en
+est donnée sur le registre d'écrou. Le chef de poste signe la levée d'écrou.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D211-14
+
+Les militaires libérés sont en principe pris en charge par un sous-officier de leur corps.A défaut, le militaire doit être
+mis en route par l'unité qui l'avait en subsistance pendant sa détention dans les mêmes conditions qu'un isolé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+#### Chapitre II : En temps de guerre
+
+##### Paragraphe 2 : De la détention provisoire et de la liberté
+
+##### Sous-paragraphe 2 : Des établissements militaires d'incarcération
+
+###### Article D212-47
+
+La désignation et les modalités de fonctionnement de l'établissement militaire d'incarcération prévu à l'article L. 212-159
+sont faites conformément aux articles D. 211-1 à D. 211-14.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - Code de justice militaire. - art. D211-1
+	  - Code de justice militaire. - art. L212-159
+
+
+### TITRE II : PROCÉDURE DEVANT LES JURIDICTIONS DE JUGEMENT
+
+#### Chapitre Ier : En temps de paix et hors du territoire de la République
+
+##### Section unique : De la délivrance des copies et extraits de jugement
+
+###### Article D221-1
+
+Les droits perçus à la diligence de l'officier greffier, à l'occasion de la délivrance des copies de pièces de procédure et
+extraits de jugement, sont versés périodiquement au Trésor et imputés au compte  Recettes accidentelles à différents titres »
+du budget de l'exercice courant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-749 du 30 juin 2014 - art. 4
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D222-4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de justice militaire. - art. D222-4 (V)
+
+
+###### Article D221-2
+
+Les extraits, expéditions ou copies demandées par les parquets et les administrations pour le compte de l'Etat sont délivrés
+à titre gratuit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2014-749 du 30 juin 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code de justice militaire. - art. D222-5 (V)
+
+
+#### Chapitre II : En temps de guerre
+
+##### Section unique : De la délivrance des copies et extraits de jugement
+
+###### Article D222-1
+
+Sous réserve des dispositions de l'article L. 222-5, l'officier greffier, chef du service du greffe, peut délivrer : 
+
+1° Aux parties et à leurs frais : 
+
+a) Sur leur demande, des extraits ou expéditions de la plainte ou de la dénonciation, des ordonnances définitives et des
+jugements ; 
+
+b) Avec l'autorisation du commissaire du Gouvernement, des extraits ou expéditions de toutes les autres pièces de la
+procédure. 
+
+Toutefois l'autorisation est donnée par le ministre de la défense lorsque ces pièces font partie d'une enquête terminée par
+une décision de classement sans suite ou d'une procédure close par une décision de non-lieu ou d'une affaire dans laquelle le
+huis clos a été ordonné ; 
+
+2° Aux tiers et à leurs frais : 
+
+a) Sur leur demande, des extraits ou expéditions des jugements définitifs ; 
+
+b) Avec l'autorisation du commissaire du gouvernement ou du ministre de la défense selon les distinctions précisées au 1° b
+ci-dessus, des extraits ou expéditions de toutes les autres pièces de la procédure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D222-3 (V)
+
+	**Cite**:
+
+	  - Code de justice militaire. - art. L222-5
+
+
+###### Article D222-2
+
+I. Une copie certifiée conforme est délivrée gratuitement au prévenu pour toute décision de non-lieu ou d'acquittement le
+concernant. 
+
+II.-Les dispositions de l'article R. 165 du code de procédure pénale relatives à la délivrance de reproductions de pièces de
+procédures autres que les décisions sont applicables devant les juridictions des forces armées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R165 (V)
+
+
+###### Article D222-3
+
+Lorsque l'autorisation prévue à l'article D. 222-1 n'est pas accordée, le motif du refus doit être porté à la connaissance de
+l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - Code de justice militaire. - art. D222-1
+
+
+###### Article D222-4
+
+Les dispositions des articles D. 221-1 et D. 221-2 sont applicables par les juridictions des forces armées du temps de
+guerre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - Code de justice militaire. - art. D221-1 (T)
+
+
+### TITRE VI : DES PROCÉDURES D'EXÉCUTION
+
+#### Chapitre IX : Des frais de justice
+
+##### Section 1 : Des dépenses
+
+###### Article D269-1
+
+Les dépenses des juridictions des forces armées imputables sur les crédits du budget du ministère de la défense
+comprennent : 
+
+1° Les frais de justice ; 
+
+2° Les indemnités de déplacement dues aux magistrats civils présidents et assesseurs des juridictions des forces armées et
+des chambres de l'instruction de ces juridictions autres que celles prévues au premier alinéa de l'article D. 269-12 ; 
+
+3° Les indemnités de déplacement dues aux autres magistrats et greffiers différentes de celles prévues au deuxième alinéa de
+l'article D. 269-12 ; 
+
+4° Les frais de publication d'un jugement de révision prononcé par une juridiction des forces armées d'où résulte l'innocence
+d'un condamné ; 
+
+5° Les frais d'apposition de scellés au domicile d'un officier décédé ; 
+
+6° Les frais de fonctionnement des greffes des juridictions des forces armées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - Code de justice militaire. - art. D269-12
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D269-2 (V)
+
+
+###### Article D269-2
+
+Les magistrats civils visés au 2° de l'article D. 269-1 reçoivent, en cas de déplacement hors de leur résidence
+administrative, les indemnités prévues pour les présidents de cour d'assises et leurs assesseurs par l'article R. 201 du code
+de procédure pénale.
+
+Toutefois, le montant des indemnités allouées aux magistrats intéressés ne peut en aucun cas être inférieur à celui des
+indemnités susceptibles d'être accordées, en application du règlement sur les frais de déplacement des militaires voyageant
+isolément, aux magistrats visés au 3° de l'article D. 269-1 et bénéficiant du même indice de traitement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R201
+	  - Code de justice militaire. - art. D269-1
+
+
+###### Article D269-3
+
+Un arrêté conjoint du ministre de la défense et du ministre de l'économie et des finances fixe la liste des dépenses, autres
+que les frais de justice, payables par régie d'avances.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+##### Section 2 : Des frais de justice
+
+###### Article D269-4
+
+Les frais de justice sont : 
+
+1° Les frais de translation des prévenus ou accusés, les frais de translation des condamnés pour se rendre au lieu où ils
+sont appelés en témoignage lorsque cette translation ne peut être effectuée par les voitures cellulaires du service
+pénitentiaire, les frais de transport des procédures et des pièces à conviction. 
+
+2° Les frais d'extradition des prévenus, accusés ou condamnés ; les frais de commission rogatoire et autres frais de
+procédure pénale en matière internationale. 
+
+3° Les frais urgents de procédure engagés par les officiers de police judiciaire ainsi que les frais de commission
+rogatoire. 
+
+4° Les honoraires et indemnités qui peuvent être accordés aux personnes ci-après : 
+
+a) Experts et traducteurs-interprètes ; 
+
+b) Personnes chargées des enquêtes sociales ou de personnalité ; 
+
+c) Personnes contribuant au contrôle judiciaire ; 
+
+d) Délégués du procureur de la République chargés d'une des missions prévues par les 1° à 4° de l'article 41-1 du code de
+procédure pénale ou intervenant au cours d'une composition pénale. 
+
+5° Les indemnités qui peuvent être accordées aux témoins civils et militaires, aux jurés par application des articles R. 123
+à R. 146 du code de procédure pénale et aux parties civiles par application des articles 375-1 et 422 du même code. 
+
+6° Les frais de saisie ou de mise sous séquestre ou en fourrière, ainsi que les frais en matière de scellés. 
+
+7° Les frais d'enquête sociale et d'expertise engagés en matière d'exécution ou d'application des peines et en matière de
+grâces. 
+
+8° Les émoluments et indemnités alloués aux huissiers de justice. 
+
+9° Les frais de capture et d'arrestation. 
+
+10° Les dépenses diverses de reconstitution, d'exhumation ou de travaux techniques exposés pour l'instruction d'une affaire
+particulière et pour une enquête préliminaire ou de flagrant délit, à l'exclusion des dépenses de fonctionnement. 
+
+11° Les indemnités allouées aux magistrats, juges militaires et greffiers qui effectuent un transport sur les lieux au cours
+de l'instruction ou du jugement des affaires ainsi que toute autre dépense effectuée à ce titre. 
+
+12° Les frais postaux et télégraphiques, le port des paquets pour une procédure pénale. 
+
+13° Les frais des procédures suivies en application des lois concernant l'enfance délinquante. 
+
+14° Les indemnités accordées aux victimes d'erreurs judiciaires ainsi que les frais de révision et les secours aux individus
+relaxés ou acquittés. 
+
+15° Les indemnités accordées en application des articles 149 à 150 du code de procédure pénale et L. 212-173 à L. 212-176 du
+code de justice militaire. 
+
+16° Les frais de copie, droits, redevances et émoluments, dus aux greffiers des tribunaux de commerce pour la délivrance des
+pièces à l'autorité judiciaire dans le cadre d'une procédure pénale. 
+
+17° Les frais et dépens mis à la charge du Trésor public en cas de décision juridictionnelle rectifiant ou interprétant une
+précédente décision en matière pénale. 
+
+18° Les frais de recherche et de délivrance de reproductions de tous documents imprimés. 
+
+19° Les frais de remise ou de mise en œuvre des conventions secrètes de moyens ou prestations de cryptologie engagés à la
+demande des autorités judiciaires par les organismes agréés mentionnés à l'article 28 de la loi n° 90-1170 du 29 décembre
+1990 sur la réglementation des télécommunications. 
+
+20° Les frais des administrateurs ad hoc lorsqu'ils figurent sur la liste prévue à l'article R. 53 du code de procédure
+pénale ou qu'il a été fait application des dispositions de l'article R. 53-6 du même code. 
+
+21° Les indemnités accordées en application de l'article 800-2 du code de procédure pénale. 
+
+22° Les frais correspondant à la fourniture des données conservées en application du II de l'article L. 34-1 du code des
+postes et des communications électroniques. 
+
+23° Les frais de publicité des arrêts et jugements portant confiscation des biens.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°90-1170 du 29 décembre 1990 (V)
+	  - Code des postes et des communications électroni... - art. L34-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 149 (V)
+	  - CODE DE PROCEDURE PENALE - art. 375-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 41-1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 800-2 (V)
+	  - CODE DE PROCEDURE PENALE - art. R123 (V)
+	  - CODE DE PROCEDURE PENALE - art. R53 (V)
+	  - CODE DE PROCEDURE PENALE - art. R53-6 (V)
+	  - Code de justice militaire. - art. L212-173 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D269-6 (V)
+
+
+##### Sous-section 1 : Tarif des frais de justice
+
+###### Article D269-5
+
+Sous réserve des dispositions des articles D. 269-6 à D. 269-15, le tarif des frais de justice est déterminé conformément aux
+dispositions des articles R. 94 à R. 213-1 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R94 (V)
+	  - Code de justice militaire. - art. D269-6 (V)
+
+
+###### Article D269-6
+
+Les frais engagés conformément aux dispositions de l'article D. 269-4 (1° et 2°) sont décomptés soit suivant les tarifs fixés
+par les règlements militaires relatifs aux transports de personnel par voie ferrée, soit selon les tarifs fixés par les
+règlements militaires relatifs aux transports de matériel par voie ferrée ou, au besoin, à concurrence de leur montant réel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - Code de justice militaire. - art. D269-4
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D269-5 (V)
+	  - Code de justice militaire. - art. D269-7 (V)
+
+
+###### Article D269-7
+
+Les frais urgents de procédures engagés, avant l'ouverture des poursuites, par tout officier de police judiciaire et les
+frais de commission rogatoire sont décomptés comme il est prévu à l'article D. 269-6. Les mémoires de ces frais sont
+obligatoirement taxés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D269-18 (V)
+
+	**Cite**:
+
+	  - Code de justice militaire. - art. D269-6
+
+
+###### Article D269-8
+
+Sauf s'ils sont militaires, les interprètes et les experts sont rétribués suivant les tarifs et les modalités fixés par les
+articles R. 106, R. 107 et R. 110 à R. 122 du code de procédure pénale.
+
+S'il y a lieu d'appliquer les articles R. 113 et R. 115 du code de procédure pénale, le juge d'instruction demande selon le
+cas l'agrément ou l'avis conforme du président de la chambre de l'instruction. 
+
+En temps de guerre, et sauf en cas d'urgence, si le montant prévu des frais et honoraires d'expertise excède le maximum prévu
+à l'article R. 107 du code de procédure pénale, le montant est communiqué au commissaire du Gouvernement qui peut, dans le
+délai de trois jours, présenter ses observations.L'avis du commissaire du Gouvernement est obligatoire en matière d'expertise
+comptable. En cas de désaccord, le juge d'instruction peut saisir la chambre de contrôle de l'instruction, qui statue dans
+les huit jours. Sa décision n'est susceptible d'aucun recours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R106 (V)
+	  - CODE DE PROCEDURE PENALE - art. R107 (V)
+	  - CODE DE PROCEDURE PENALE - art. R113 (V)
+
+
+###### Article D269-9
+
+Les dispositions des articles R. 123 à R. 133 et R. 135 à R. 138 du code de procédure pénale sont applicables aux témoins
+cités devant les juridictions des forces armées. 
+
+Lorsqu'un témoin civil touché par une citation se trouve dans l'impossibilité de faire l'avance de ses frais de voyage pour
+se rendre au lieu de convocation, il se présente au commandant d'armes de la place la plus proche qui, sur le vu de la
+citation et après vérification de son identité, détermine l'avance qui lui est indispensable pour déférer à sa convocation. 
+
+Le montant de l'avance accordée ne doit excéder en aucun cas la moitié du montant des indemnités auxquelles il peut
+prétendre. Ce montant est mentionné en marge ou au bas de la copie de la citation. 
+
+Le commandant d'armes adresse ensuite à l'un des corps de la place une réquisition pour l'inviter à payer cette somme au
+témoin. 
+
+Si le témoin qui a bénéficié d'une avance de taxes ne se présente pas à la convocation, le ministère public adresse au
+ministre un rapport auquel sont jointes les pièces justificatives établies par le corps qui a été requis. 
+
+Le ministre décide s'il y a lieu d'imputer le débet à la charge du budget de la justice militaire ou de déclarer le témoin
+non comparant débiteur envers l'Etat, sans préjudice des poursuites à exercer contre lui, le cas échéant. 
+
+Les militaires visés à l'article R. 127 du code de procédure pénale qui, lors de leur comparution, ne se trouvent pas en
+cours de congé ou de permission perçoivent les indemnités prévues par le règlement sur les frais de déplacement des
+militaires voyageant isolément.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R123 (V)
+	  - CODE DE PROCEDURE PENALE - art. R127 (V)
+	  - CODE DE PROCEDURE PENALE - art. R135 (V)
+
+
+###### Article D269-10
+
+Les dispositions des articles R. 139 à R. 145 du code de procédure pénale sont applicables aux membres du jury criminel du
+tribunal aux armées. 
+
+Lorsqu'un juré se trouve dans l'impossibilité de faire l'avance de ses frais de voyage pour se rendre au lieu de convocation,
+il se présente au commandant d'armes de la place la plus proche qui, sur le vu de la notification et après vérification de
+son identité, détermine l'avance qui lui est indispensable pour déférer à sa convocation. 
+
+Le montant de l'avance peut être égal au prix d'un billet aller et retour quand le voyage s'effectue par un service de
+transport qui délivre des billets d'aller et de retour payables intégralement au moment du départ ; dans les autres cas, il
+ne doit pas excéder la moitié du montant de l'indemnité de transport auquel le juré peut prétendre. Le montant alloué est
+mentionné en marge ou au bas de la copie de la notification délivrée au juré. 
+
+Le commandant d'armes adresse ensuite à l'un des corps de la place une réquisition pour l'inviter à payer cette somme au
+juré.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2014-749 du 30 juin 2014 - art. 5
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R139
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D269-18 (V)
+
+
+###### Article D269-11
+
+Les dispositions des articles R. 147, R. 148 et R. 149 du code de procédure pénale sont applicables devant les juridictions
+des forces armées. Les mesures prévues par ces derniers articles sont ordonnées, selon les cas, par le président de la
+juridiction des forces armées, le président de la chambre de l'instruction, le juge d'instruction ou le juge prévôtal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R147 (V)
+
+
+###### Article D269-12
+
+Les magistrats civils présidents et assesseurs des juridictions des forces armées et des chambres de l'instruction de ces
+juridictions qui effectuent un transport sur les lieux au cours de l'instruction ou du jugement des affaires reçoivent les
+indemnités prévues par l'article R. 201 du code de procédure pénale. 
+
+Les autres magistrats, les juges prévôtaux, les juges militaires et les greffiers perçoivent, dans les mêmes circonstances,
+les indemnités prévues par le règlement sur les frais de déplacement des militaires voyageant isolément.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R201 (V)
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D269-1 (V)
+
+
+###### Article D269-13
+
+Les frais d'insertion des arrêts et des jugements portant confiscation des biens sont les frais réels engagés et payés par
+l'imprimeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D269-17 (V)
+	  - Code de justice militaire. - art. D269-19 (V)
+
+
+###### Article D269-14
+
+Les dispositions des articles R. 189 à R. 191 du code de procédure pénale sont applicables devant les juridictions des forces
+armées.
+
+L'arrestation d'un déserteur ou d'un insoumis, d'un détenu militaire évadé d'un établissement pénitentiaire ou hospitalier ou
+celle d'un militaire en état d'absence irrégulière depuis plus de quarante-huit heures donne droit à la prime d'arrestation
+prévue par l'article R. 191 précité pour l'exécution d'un mandat d'arrêt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R189 (V)
+
+
+###### Article D269-15
+
+Les droits fixes de procédure sont perçus au bénéfice du Trésor et sont dus par chaque individu compris dans un jugement
+portant condamnation ou dispense de peine ; ils sont fixés par l'article 1018 A du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1018 A (V)
+
+
+##### Sous-section 2 :Paiements et recouvrement des frais de justice
+
+##### Paragraphe 1 : Paiement
+
+###### Article D269-16
+
+Sous réserve des dispositions des articles D. 269-17 à D. 269-19, les dispositions des articles R. 222 à R. 234 du code de
+procédure pénale sont applicables par les juridictions des forces armées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R222 (V)
+	  - Code de justice militaire. - art. D269-17 (V)
+
+
+###### Article D269-17
+
+A l'exception des frais visés aux articles D. 269-13 et D. 269-15, le mandatement des frais de justice est assuré par les
+ordonnateurs compétents sur le budget du ministère de la défense nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - Code de justice militaire. - art. D269-13
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D269-16 (V)
+
+
+###### Article D269-18
+
+Les frais visés aux articles D. 269-7, D. 269-8, D. 269-9, premier alinéa, D. 269-10, premier alinéa, D. 269-11 et D. 269-12,
+premier alinéa, peuvent être payés sur les fonds des régies d'avances instituées près les juridictions des forces armées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - Code de justice militaire. - art. D269-10
+	  - Code de justice militaire. - art. D269-7
+
+
+###### Article D269-19
+
+Les frais visés à l'article D. 269-13 sont réglés par l'administration des domaines.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - Code de justice militaire. - art. D269-13
+
+
+##### Paragraphe 2 : Recouvrement
+
+###### Article D269-20
+
+Sauf devant les tribunaux prévôtaux, l'exécutoire est susceptible de recours dans les conditions prévues par le code de
+procédure pénale en temps de paix, et selon les articles L. 261-9 à L. 261-11 en temps de guerre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - Code de justice militaire. - art. L261-9
+
+
+###### Article D269-21
+
+Conformément aux dispositions de l'article L. 261-12, le recouvrement des droits fixes de procédure, amendes et confiscations
+est poursuivi par toute voie de droit, et par celle de la contrainte judiciaire dans les cas où la loi permet de l'exercer, à
+la diligence des agents du Trésor en vertu des exécutoires mentionnés ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D269-23 (V)
+
+	**Cite**:
+
+	  - Code de justice militaire. - art. L261-12
+
+
+###### Article D269-22
+
+Le recouvrement est opéré au nom de la République française selon les dispositions de l'article L. 261-12. 
+
+Il est effectué dans les conditions prévues par les articles 76, 77 et 78 du décret n° 62-1587 du 29 décembre 1962 portant
+règlement général sur la comptabilité publique et par l'article 2, deuxième alinéa (1 et 2) et les articles 3 à 11, 17 et 19
+du décret n° 64-1333 du 22 décembre 1964 relatif au recouvrement des amendes et condamnations pécuniaires par les comptables
+directs du Trésor et compte tenu des dispositions mentionnées à l'article D. 269-23.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 76 (V)
+	  - Décret n°64-1333 du 22 décembre 1964 - art. 3 (V)
+	  - Code de justice militaire. - art. D269-23 (V)
+	  - Code de justice militaire. - art. L261-12 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+
+###### Article D269-23
+
+Les extraits de jugement délivrés à l'administration des finances, en exécution de l'article L. 261-12 et de l'article D.
+269-21 ci-dessus, sont établis sur des formules dont le modèle est arrêté par le ministre de la défense et par le ministre
+chargé des finances. 
+
+Ces extraits sont vérifiés et visés par le ministère public, qui les adresse au trésorier-payeur général du département du
+siège de la juridiction des forces armées. 
+
+Le délai d'envoi des extraits de jugement est fixé à trente-cinq jours à compter de la date à laquelle la sentence est
+devenue définitive.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-691 du 10 juillet 2008 - art.
+
+	**Cite**:
+
+	  - Code de justice militaire. - art. D269-21
+	  - Code de justice militaire. - art. L261-12
+
+	**Cité par**:
+
+	  - Code de justice militaire. - art. D269-22 (V)
 
 
