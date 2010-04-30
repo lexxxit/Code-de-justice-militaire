@@ -1,5 +1,5 @@
 # Code de justice militaire (nouveau)  
-Version Consolidée au 2010-03-12
+Version Consolidée au 2010-05-01
 
 # Partie législative
 
@@ -14871,27 +14871,15 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 ###### Article L261-12
 
-Les poursuites pour le recouvrement des droits fixes de procédure, amendes et confiscations sont faites par les agents du
-Trésor au nom de la République française, sur extrait du jugement comportant un exécutoire adressé par le commissaire du
-Gouvernement près la juridiction des forces armées qui a rendu le jugement.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Les poursuites pour le recouvrement des droits fixes de procédure, amendes et confiscations sont faites par les agents de la
+direction générale des finances publiques au nom de la République française, sur extrait du jugement comportant un exécutoire
+adressé par le commissaire du Gouvernement près la juridiction des forces armées qui a rendu le jugement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Ancien code de justice militaire art. 355
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 111
 
 	**Cité par**:
 
@@ -19399,26 +19387,14 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 ###### Article L422-3
 
-Faute de paiement à l'agent du Trésor qui lui a été désigné dans les trente jours de l'envoi ou de la notification de
-l'ordonnance, le contrevenant est cité devant la juridiction prévôtale.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Faute de paiement à l'agent de la direction générale des finances publiques qui lui a été désigné dans les trente jours de
+l'envoi ou de la notification de l'ordonnance, le contrevenant est cité devant la juridiction prévôtale.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Ancien code de justice militaire art. 485
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 111
 
 
 ###### Article L422-4
