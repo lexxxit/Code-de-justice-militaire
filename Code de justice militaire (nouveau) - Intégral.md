@@ -1,5 +1,5 @@
 # Code de justice militaire (nouveau)  
-Version Consolidée au 2010-05-01
+Version Consolidée au 2010-08-11
 
 # Partie législative
 
@@ -15824,30 +15824,19 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 ###### Article L311-1
 
 Sans préjudice de la répression pénale des faits qui constituent des crimes ou délits de droit commun, et notamment de ceux
-qui sont contraires aux lois et coutumes de la guerre et aux conventions internationales, sont punies conformément aux
-dispositions du présent livre les infractions d'ordre militaire prévues aux articles L. 311-2 à L. 311-14.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+qui sont définis aux articles 461-1 à 461-31 du code pénal, sont punies conformément aux dispositions du présent livre les
+infractions d'ordre militaire prévues aux articles L. 311-2 à L. 311-14.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Ancien code de justice militaire art. 383
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Loi n°2010-930 du 9 août 2010 - art. 9
 
 	**Cite**:
 
-	  - Code de justice militaire L311-2 à L311-14
+	  - Code pénal - art. 461-1
+	  - Code de justice militaire. - art. L311-2
 
 
 ###### Article L311-2
@@ -17100,45 +17089,6 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 
 ##### Section 3 : Des pillages.
-
-###### Article L322-4
-
-Sont punis de la réclusion criminelle à perpétuité tous pillages ou dégâts de denrées, marchandises ou effets commis en bande
-par des militaires ou par des personnes embarquées, soit avec des armes ou à force ouverte, soit avec bris de portes et
-clôtures extérieures, soit avec violences envers les personnes.
-
-Le pillage et les dégâts commis en bande sont punis de dix ans d'emprisonnement dans tous les autres cas.
-
-Néanmoins, si dans les cas prévus au premier alinéa, il existe parmi les coupables un ou plusieurs instigateurs, un ou
-plusieurs militaires pourvus de grades, la peine de la réclusion criminelle à perpétuité n'est infligée qu'aux instigateurs
-et aux militaires les plus élevés en grade. Les autres coupables sont punis de vingt ans de réclusion criminelle.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 427
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Loi n°2010-930 du 9 août 2010 - art. 9
-
-	**Cité par**:
-
-	  - Code de justice militaire. - art. L333-1 (V)
-
 
 ###### Article L322-5
 
