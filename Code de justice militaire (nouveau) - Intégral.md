@@ -1,5 +1,5 @@
 # Code de justice militaire (nouveau)  
-Version Consolidée au 2010-08-11
+Version Consolidée au 2011-05-19
 
 # Partie législative
 
@@ -15825,18 +15825,18 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 Sans préjudice de la répression pénale des faits qui constituent des crimes ou délits de droit commun, et notamment de ceux
 qui sont définis aux articles 461-1 à 461-31 du code pénal, sont punies conformément aux dispositions du présent livre les
-infractions d'ordre militaire prévues aux articles L. 311-2 à L. 311-14.
+infractions d'ordre militaire prévues aux articles L. 321-1 à L. 324-11.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2010-930 du 9 août 2010 - art. 9
+	  - Loi n°2011-525 du 17 mai 2011 - art. 184
 
 	**Cite**:
 
 	  - Code pénal - art. 461-1
-	  - Code de justice militaire. - art. L311-2
+	  - Code de justice militaire. - art. L321-1
 
 
 ###### Article L311-2
@@ -16122,29 +16122,25 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 Lorsque la peine d'amende est prononcée pour une infraction de droit commun contre des militaires ou assimilés n'ayant pas
 rang d'officier, le tribunal peut décider, par une disposition spéciale, de substituer à cette peine un emprisonnement de six
-jours à six mois pour un délit et de deux à quinze jours pour une contravention, le condamné conservant la faculté de payer
-l'amende au lieu de subir l'emprisonnement.
+mois au plus pour un délit, le condamné conservant la faculté de payer l'amende au lieu de subir l'emprisonnement.     
 
 La peine ainsi infligée conserve le caractère d'une amende, mais elle ne se confond pas avec les autres peines prononcées.
 Elle est subie indépendamment de celles-ci.
 
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 393
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 184
+
+	**Abrogé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 35
 
 
 ###### Article L311-12
@@ -18091,31 +18087,24 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 ###### Article L323-19
 
-Le fait pour tout militaire d'exercer des violences sur un subordonné, hors le cas de légitime défense de soi-même ou
-d'autrui, est puni de cinq ans d'emprisonnement. Toutefois, il n'y a ni crime ni délit si les violences ont été commises à
-l'effet de rallier des fuyards en présence de l'ennemi ou de bande armée ou d'arrêter soit le pillage ou la dévastation, soit
-le désordre grave de nature à compromettre la sécurité d'un bâtiment de la marine ou d'un aéronef militaire.
+Le fait pour tout militaire d'exercer des violences sur un subordonné                est puni de cinq ans d'emprisonnement.
+Toutefois, il n'y a ni crime ni délit si les violences ont été commises à l'effet de rallier des fuyards en présence de
+l'ennemi ou de bande armée ou d'arrêter soit le pillage ou la dévastation, soit le désordre grave de nature à compromettre la
+sécurité d'un bâtiment de la marine ou d'un aéronef militaire. 
 
 Si par les circonstances dans lesquelles elles ont été commises ou par leurs conséquences les violences constituent une
 infraction plus sévèrement réprimée par le code pénal, elles sont punies des peines que ce code prévoit.
 
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 460
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 184
 
 
 ###### Article L323-20
@@ -19062,29 +19051,27 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 ###### Article L333-7
 
-L'interdiction du territoire français peut être prononcée soit à titre définitif, soit pour une durée de dix ans au plus, à
-l'encontre de tout étranger coupable de l'un des crimes prévus au présent titre.
+L'interdiction du territoire français peut être prononcée dans les conditions prévues par l'article 131-30 du code pénal soit
+à titre définitif, soit pour une durée de dix ans au plus, à l'encontre de tout étranger coupable de l'un des crimes prévus
+au présent titre. 
 
 L'interdiction du territoire français est assortie de plein droit de la reconduite du condamné à la frontière à l'expiration
 de sa peine.
 
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 476-16
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 184
+
+	**Cite**:
+
+	  - Code pénal - art. 131-30
 
 
 ## LIVRE IV : DES PRÉVÔTÉS ET DES TRIBUNAUX PRÉVÔTAUX
