@@ -1,5 +1,5 @@
 # Code de justice militaire (nouveau)  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-06-01
 
 # Partie législative
 
@@ -2984,35 +2984,29 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 Si la personne mise en examen recherchée en vertu d'un mandat d'amener est trouvée à plus de deux cents kilomètres du siège
 du juge d'instruction qui a délivré le mandat, elle est conduite dans les vingt-quatre heures, soit avec son accord, devant
-le juge d'instruction qui a délivré le mandat, soit devant le procureur de la République du lieu de l'arrestation.
+le juge d'instruction qui a délivré le mandat, soit devant le juge des libertés et de la détention du lieu de l'arrestation.
 
 Toute personne mise en examen arrêtée en vertu d'un mandat d'arrêt à plus de deux cents kilomètres du siège du juge
-d'instruction qui a délivré le mandat est conduite devant le procureur de la République du lieu de l'arrestation.
+d'instruction qui a délivré le mandat est conduite devant le juge des libertés et de la détention du lieu de l'arrestation.
 
-Dans l'un ou l'autre des cas mentionnés aux premier et second alinéas du présent article, le procureur de la République
-procède conformément aux dispositions des deuxième et troisième alinéas de l'article 133 du code de procédure pénale.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Dans l'un ou l'autre des cas mentionnés aux premier et second alinéas du présent article, le juge des libertés et de la
+détention procède conformément aux dispositions des deuxième et troisième alinéas de l'article 133 du code de procédure
+pénale.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 112
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-392 du 14 avril 2011 - art. 22
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 133 (M)
+	  - Code de procédure pénale - art. 133
 
 
 ##### Sous-section 2 : De la détention provisoire et de la liberté.
