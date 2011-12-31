@@ -1,5 +1,5 @@
 # Code de justice militaire (nouveau)  
-Version Consolidée au 2011-12-15
+Version Consolidée au 2012-01-01
 
 # Partie législative
 
@@ -9,46 +9,57 @@ Version Consolidée au 2011-12-15
 
 La justice militaire est rendue au nom du peuple français sous le contrôle de la Cour de cassation :
 
-1° En temps de paix et pour les infractions commises hors du territoire de la République, par le tribunal aux armées et, en
-cas d'appel, par la juridiction d'appel compétente, en faisant application en matière criminelle du deuxième alinéa de
-l'article L. 221-2 ;
+1° En temps de guerre, par des tribunaux territoriaux des forces armées et par des tribunaux militaires aux armées ;
 
-2° En temps de guerre, par des tribunaux territoriaux des forces armées et par des tribunaux militaires aux armées ;
-
-3° Lorsqu'ils sont établis dans les conditions prévues par le présent code, par les tribunaux prévôtaux.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+2° Lorsqu'ils sont établis dans les conditions prévues par le présent code, par les tribunaux prévôtaux.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 1
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
 
 	**Modifié par**:
 
-	  - Loi n°2007-289 2007-03-05 art. 2 1° JORF 6 mars 2007 en vigueur le 12 mai 2007
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - Code de justice militaire L221-2
+	  - Code de justice militaire
 
 
 ###### Article L2
 
-En temps de paix, les infractions commises par les militaires sur le territoire de la République relèvent des juridictions de
-droit commun lorsqu'elles sont commises hors service et des juridictions de droit commun spécialisées en matière militaire
-lorsqu'elles sont commises en service.
+En temps de paix, les infractions commises par les membres des forces armées ou à l'encontre de celles-ci relèvent des
+juridictions de droit commun spécialisées en matière militaire dans les cas prévus à l'article L. 111-1. Hors ces cas, elles
+relèvent des juridictions de droit commun. 
+
+Les infractions relevant de la compétence des juridictions de droit commun spécialisées en matière militaire sont
+poursuivies, instruites et jugées selon les règles du code de procédure pénale, sous réserve des dispositions particulières
+des articles 698-1 à 698-9 du même code et, lorsqu'elles sont commises hors du territoire de la République, des dispositions
+particulières du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2006-637 du 1 juin 2006
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 698-1 (V)
+	  - Code de justice militaire. - art. L111-1 (V)
+
+
+###### Article L3
+
+En temps de guerre, les infractions de la compétence des tribunaux territoriaux des forces armées et des tribunaux militaires
+aux armées sont poursuivies, instruites et jugées selon les règles du présent code.
 
 **Nota:**
 
@@ -61,38 +72,15 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
+	  - Ordonnance n°2006-637 du 1 juin 2006
 
+	**Modifié par**:
 
-###### Article L3
-
-En temps de paix, les infractions de la compétence du tribunal aux armées sont poursuivies, instruites et jugées selon les
-dispositions du code de procédure pénale, sous réserve des dispositions particulières édictées par les articles 698-1 à 698-9
-de ce code et de celles édictées par le présent code.
-
-Les attributions conférées par le code de procédure pénale au juge d'instruction, au procureur de la République, au président
-du tribunal et au président de la cour d'assises sont exercées respectivement par le juge d'instruction du tribunal aux
-armées, le procureur de la République près le tribunal aux armées et le président du tribunal aux armées.
-
-Le procureur général exerce vis-à-vis du tribunal aux armées les attributions qui lui sont dévolues par le code de procédure
-pénale à l'égard des juridictions de droit commun.
-
-En temps de guerre, les infractions de la compétence des tribunaux territoriaux des forces armées et des tribunaux militaires
-aux armées sont poursuivies, instruites et jugées selon les règles du présent code.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 2
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - Code de procédure pénale 698-1 à 698-9
+	  - Code de procédure pénale
 
 
 ###### Article L4
@@ -123,6 +111,8 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 ### TITRE Ier : ORGANISATION
 
 #### Chapitre Ier : Du tribunal aux armées en temps de paix
+
+#### Chapitre Ier : Des juridictions compétentes en matière militaire en temps de paix
 
 ###### Article L111-1
 
@@ -165,614 +155,6 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 	**Cité par**:
 
 	  - Code de justice militaire. - art. L2 (VD)
-
-
-##### Section 1 : Etablissement.
-
-###### Article L111-2
-
-Un décret fixe le nombre des chambres de jugement du tribunal aux armées.
-
-Pour le jugement des contraventions et des délits, des chambres détachées du tribunal aux armées peuvent, en cas de besoin,
-être instituées par décret à titre temporaire hors du territoire de la République.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 4
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
-
-
-##### Section 2 : Composition.
-
-###### Article L111-3
-
-Pour le jugement des contraventions, le tribunal aux armées est composé de son président ou d'un magistrat qu'il délègue.
-
-Pour le jugement des délits, il est composé d'un président et de deux assesseurs ou, dans les cas prévus par l'article 398-1
-du code de procédure pénale, d'un seul de ces magistrats exerçant les pouvoirs conférés au président.
-
-Pour le jugement des crimes, la formation de jugement est composée selon les dispositions des articles 698-6 et 698-7 du code
-de procédure pénale sous réserve des dispositions de la présente section et de l'article L. 221-4.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 6
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-637 du 1 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
-
-	**Cite**:
-
-	  - Code de justice militaire
-	  - Code de procédure pénale - art. 398-1
-	  - Code de procédure pénale - art. 698-6
-	  - Code de procédure pénale - art. 698-7
-
-
-###### Article L111-4
-
-Les fonctions de président, de président de chambre, d'assesseur et de suppléant ainsi que celles de juge des libertés et de
-la détention, titulaire et suppléant, sont exercées par des magistrats du siège appartenant aux corps judiciaires et désignés
-pour chaque année civile dans les formes et conditions prévues pour la nomination des magistrats du siège.
-
-Il en va de même par dérogation aux dispositions de la loi n° 66-1037 du 29 décembre 1966 relative à l'exercice des fonctions
-judiciaires militaires, pour le juge d'instruction suppléant.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 7
-
-	**Cite**:
-
-	  - Loi n°66-1037 du 29 décembre 1966
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
-
-
-###### Article L111-5
-
-Les fonctions de président du tribunal aux armées sont exercées par un président de chambre ou par un conseiller de cour
-d'appel.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 8
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
-
-
-###### Article L111-6
-
-Les assesseurs sont des magistrats du siège appartenant au premier ou au second grade de la hiérarchie judiciaire.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 9
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
-
-
-###### Article L111-7
-
-Il y a auprès du tribunal aux armées un procureur de la République et un greffier.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 10
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-637 du 1 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
-
-
-##### Section 3 : De la chambre de l'instruction.
-
-###### Article L111-8
-
-Le tribunal aux armées comporte une chambre de l'instruction composée d'un président et de deux assesseurs, tous trois
-magistrats du siège appartenant au corps judiciaire et désignés dans les conditions prévues à l'article L. 111-9.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 11
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-637 du 1 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1
-
-	**Modifié par**:
-
-	  - Loi n°2007-289 2007-03-05 art. 2 2° JORF 6 mars 2007 en vigueur le 12 mai 2007
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
-
-	**Cite**:
-
-	  - Code de justice militaire
-
-
-###### Article L111-9
-
-La présidence de la chambre de l'instruction est assurée par un conseiller de cour d'appel. Les fonctions du ministère public
-sont assurées par le procureur général près la cour d'appel ou l'un de ses avocats généraux ou substituts généraux et celles
-du greffe par un greffier de la chambre de l'instruction de la cour d'appel. La désignation des magistrats se fait
-conformément au code de procédure pénale.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 12
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
-
-	**Modifié par**:
-
-	  - Loi n°2007-289 du 5 mars 2007 - art. 2
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
-
-
-##### Section 4 : Personnels.
-
-###### Article L111-10
-
-Le service du parquet, de l'instruction et du greffe du tribunal aux armées est assuré par des magistrats, des officiers
-greffiers, des sous-officiers commis-greffiers et des sous-officiers huissiers-appariteurs, qui doivent être de nationalité
-française et âgés de vingt-cinq ans accomplis.
-
-Dans le présent chapitre et les textes pris pour son application, le mot " magistrats " désigne les magistrats du corps
-judiciaire détachés auprès du ministre de la défense dans les conditions prévues par la loi n° 66-1037 du 29 décembre 1966
-relative à l'exercice des fonctions judiciaires militaires.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 14
-
-	**Cite**:
-
-	  - Loi n°66-1037 du 29 décembre 1966
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2011-1862 du 13 décembre 2011 - art. 32
-
-	**Nouveaux textes**:
-
-	  - Code de justice militaire. - art. L112-22-1 (VD)
-
-
-###### Article L111-11
-
-L'affectation des magistrats du parquet ainsi que celle des personnels chargés du service du tribunal aux armées est réservée
-au ministre de la défense.
-
-L'affectation des magistrats destinés à exercer des fonctions à l'instruction est prononcée dans les formes et conditions
-prévues pour la nomination des magistrats du siège.
-
-Il peut être affecté un ou plusieurs magistrats pour assurer soit le service du parquet, soit le service de l'instruction,
-ainsi qu'un ou plusieurs officiers greffiers adjoints et un ou plusieurs commis-greffiers.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 15
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2011-1862 du 13 décembre 2011 - art. 32
-
-	**Nouveaux textes**:
-
-	  - Code de justice militaire. - art. L112-22-2 (VD)
-
-
-###### Article L111-12
-
-Le procureur de la République près le tribunal aux armées assure auprès du tribunal aux armées, par lui-même ou par ses
-substituts, les fonctions du ministère public.
-
-En qualité de chef de parquet, le procureur de la République près le tribunal aux armées est chargé de l'administration et de
-la discipline.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 16
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2011-1862 du 13 décembre 2011 - art. 32
-
-	**Nouveaux textes**:
-
-	  - Code de justice militaire. - art. L112-22-3 (VD)
-
-
-###### Article L111-13
-
-Le juge d'instruction procède à l'instruction préparatoire.
-
-Un magistrat ne peut, à peine de nullité, remplir les fonctions de procureur de la République près le tribunal aux armées ou
-participer au jugement dans les affaires qu'il a instruites.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 17
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2011-1862 du 13 décembre 2011 - art. 32
-
-	**Nouveaux textes**:
-
-	  - Code de justice militaire. - art. L112-22-4 (VD)
-
-
-###### Article L111-14
-
-Les officiers greffiers, les sous-officiers commis-greffiers assistent le juge d'instruction et tiennent la plume aux
-audiences.
-
-Des militaires non officiers, de nationalité française et majeurs, peuvent être détachés des forces ou des services pour
-exercer, à titre d'auxiliaires, les fonctions de commis-greffiers ou d'huissiers-appariteurs.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 18
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2011-1862 du 13 décembre 2011 - art. 32
-
-	**Nouveaux textes**:
-
-	  - Code de justice militaire. - art. L112-22-5 (VD)
-
-
-##### Section 5 : Incompatibilités.
-
-###### Article L111-15
-
-Nul ne peut, à peine de nullité, siéger comme président ou juge ou remplir les fonctions de juge d'instruction dans une
-affaire soumise à un tribunal aux armées :
-
-1° S'il est parent ou allié du prévenu jusqu'au degré de cousin issu de germain inclusivement ;
-
-2° S'il a porté plainte ou mis en mouvement l'action publique ou a été entendu comme témoin ou en ce qui concerne seulement
-les présidents et juges, s'il a participé officiellement à l'enquête ;
-
-3° Si, dans les cinq ans qui ont précédé le jugement, il a été engagé dans un procès contre le prévenu ;
-
-4° S'il a précédemment connu de l'affaire comme administrateur ou comme président ou juge de la chambre de l'instruction ;
-
-5° S'il est conjoint ou concubin du prévenu ou lié avec ce dernier par un pacte civil de solidarité.
-
-Les parents et alliés, jusqu'au degré d'oncle et de neveu inclusivement, ne peuvent, à peine de nullité, être membres d'un
-même tribunal aux armées.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 20
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2011-1862 du 13 décembre 2011 - art. 32
-
-	**Nouveaux textes**:
-
-	  - Code de justice militaire. - art. L112-22-6 (VD)
-
-
-###### Article L111-16
-
-Tout président ou juge qui estime se trouver dans l'un des cas prévus à l'article L. 111-15 est tenu de le déclarer à la
-juridiction dans laquelle il est appelé à siéger ; celle-ci décide par décision motivée s'il relève de l'un des cas précités
-et s'il doit en conséquence s'abstenir.
-
-Dans la même situation, le juge d'instruction est tenu de saisir le président de la chambre de l'instruction ; cette
-juridiction décide s'il doit s'abstenir. Dans ce cas, l'affaire est renvoyée au procureur de la République près le tribunal
-aux armées.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 21
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-637 du 1 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2011-1862 du 13 décembre 2011 - art. 32
-
-	**Cite**:
-
-	  - Code de justice militaire
-
-	**Nouveaux textes**:
-
-	  - Code de justice militaire. - art. L112-22-7 (VD)
-
-
-##### Section 6 : Serment.
-
-###### Article L111-17
-
-Les officiers et sous-officiers greffiers et les sous-officiers huissiers-appariteurs, lors de leur nomination dans le corps
-et avant d'entrer en fonctions, prêtent serment, à la première audience du tribunal aux armées auquel ils sont affectés dans
-des conditions fixées par décret.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 22
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-637 du 1 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2011-1862 du 13 décembre 2011 - art. 32
-
-	**Nouveaux textes**:
-
-	  - Code de justice militaire. - art. L112-22-8 (VD)
-
-
-##### Section 7 : Défenseurs.
-
-###### Article L111-18
-
-Les personnes mentionnées aux articles L. 121-1 à L. 121-8 peuvent faire assurer leur défense par un avocat ou, si
-l'éloignement y fait obstacle, par un militaire qu'elles choisissent sur une liste établie par le président du tribunal aux
-armées.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 23
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
-
-	**Cite**:
-
-	  - Code de justice militaire
 
 
 #### Chapitre II : Des juridictions des forces armées en temps de guerre
@@ -1409,37 +791,219 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 ###### Article L112-22
 
-Les dispositions des articles L. 111-10 à L. 111-17 prévues pour le fonctionnement et le service du tribunal aux armées en
-temps de paix sont applicables aux tribunaux territoriaux des forces armées en temps de guerre, à l'exception des
-dispositions du second alinéa de l'article L. 111-11.
-
-Pour l'application de ces dispositions, les attributions dévolues au procureur de la République sont exercées par le
-commissaire du Gouvernement.
-
 Les fonctions de l'instruction sont exercées par des magistrats mobilisés en qualité d'assimilés spéciaux du service de la
 justice militaire. Leur affectation est prononcée par le ministre de la défense.
 
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 45
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - Code de justice militaire L111-10 à L111-17, L111-11
+	  - Code de justice militaire
+
+
+###### Article L112-22-1
+
+Le service du parquet, de l'instruction et du greffe du tribunal territorial des forces armées est assuré par des magistrats,
+des officiers greffiers, des sous-officiers commis-greffiers et des sous-officiers huissiers-appariteurs, qui doivent être de
+nationalité française et âgés de vingt-cinq ans accomplis.
+
+Dans le présent chapitre et les textes pris pour son application, le mot " magistrats " désigne les magistrats du corps
+judiciaire détachés auprès du ministre de la défense dans les conditions prévues par la loi n° 66-1037 du 29 décembre 1966
+relative à l'exercice des fonctions judiciaires militaires.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
+
+	**Anciens textes**:
+
+	  - Code de justice militaire. - art. L111-10 (VT)
+
+
+###### Article L112-22-2
+
+L'affectation des magistrats du parquet ainsi que celle des personnels chargés du service du tribunal aux armées est réservée
+au ministre de la défense.
+
+Il peut être affecté un ou plusieurs magistrats pour assurer soit le service du parquet, soit le service de l'instruction,
+ainsi qu'un ou plusieurs officiers greffiers adjoints et un ou plusieurs commis-greffiers.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
+
+	**Anciens textes**:
+
+	  - Code de justice militaire. - art. L111-11 (VT)
+
+
+###### Article L112-22-3
+
+Le commissaire du Gouvernement près le tribunal territorial des forces armées assure auprès du tribunal aux armées, par lui-
+même ou par ses substituts, les fonctions du ministère public.
+
+En qualité de chef de parquet, le commissaire du Gouvernement près le tribunal territorial des forces armées est chargé de
+l'administration et de la discipline.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
+
+	**Anciens textes**:
+
+	  - Code de justice militaire. - art. L111-12 (VT)
+
+
+###### Article L112-22-4
+
+Le juge d'instruction procède à l'instruction préparatoire.
+
+Un magistrat ne peut, à peine de nullité, remplir les fonctions de commissaire du Gouvernement près le tribunal territorial
+des forces armées ou participer au jugement dans les affaires qu'il a instruites.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
+
+	**Anciens textes**:
+
+	  - Code de justice militaire. - art. L111-13 (VT)
+
+
+###### Article L112-22-5
+
+Les officiers greffiers, les sous-officiers commis-greffiers assistent le juge d'instruction et tiennent la plume aux
+audiences.
+
+Des militaires non officiers, de nationalité française et majeurs, peuvent être détachés des forces ou des services pour
+exercer, à titre d'auxiliaires, les fonctions de commis-greffiers ou d'huissiers-appariteurs.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
+
+	**Anciens textes**:
+
+	  - Code de justice militaire. - art. L111-14 (VT)
+
+
+###### Article L112-22-6
+
+Nul ne peut, à peine de nullité, siéger comme président ou juge ou remplir les fonctions de juge d'instruction dans une
+affaire soumise à un tribunal territorial des forces armées :
+
+1° S'il est parent ou allié du prévenu jusqu'au degré de cousin issu de germain inclusivement ;
+
+2° S'il a porté plainte ou mis en mouvement l'action publique ou a été entendu comme témoin ou en ce qui concerne seulement
+les présidents et juges, s'il a participé officiellement à l'enquête ;
+
+3° Si, dans les cinq ans qui ont précédé le jugement, il a été engagé dans un procès contre le prévenu ;
+
+4° S'il a précédemment connu de l'affaire comme administrateur ou comme président ou juge de la chambre de l'instruction ;
+
+5° S'il est conjoint ou concubin du prévenu ou lié avec ce dernier par un pacte civil de solidarité.
+
+Les parents et alliés, jusqu'au degré d'oncle et de neveu inclusivement, ne peuvent, à peine de nullité, être membres d'un
+même tribunal territorial des forces armées.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
+
+	**Anciens textes**:
+
+	  - Code de justice militaire. - art. L111-15 (VT)
+
+
+###### Article L112-22-7
+
+Tout président ou juge qui estime se trouver dans l'un des cas prévus à l'article L. 111-15 est tenu de le déclarer à la
+juridiction dans laquelle il est appelé à siéger ; celle-ci décide par décision motivée s'il relève de l'un des cas précités
+et s'il doit en conséquence s'abstenir.
+
+Dans la même situation, le juge d'instruction est tenu de saisir le président de la chambre de l'instruction ; cette
+juridiction décide s'il doit s'abstenir. Dans ce cas, l'affaire est renvoyée au commissaire du Gouvernement près le tribunal
+territorial des forces armées.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
+
+	**Anciens textes**:
+
+	  - Code de justice militaire. - art. L111-16 (VT)
+
+
+###### Article L112-22-8
+
+Les officiers et sous-officiers greffiers et les sous-officiers huissiers-appariteurs, lors de leur nomination dans le corps
+et avant d'entrer en fonctions, prêtent serment, à la première audience du tribunal territorial des forces armées auquel ils
+sont affectés dans des conditions fixées par décret.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
+
+	**Anciens textes**:
+
+	  - Code de justice militaire. - art. L111-17 (VT)
 
 
 ###### Article L112-23
@@ -1844,27 +1408,20 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 ###### Article L121-1
 
-Hors du territoire de la République et sous réserve des engagements internationaux, le tribunal aux armées connaît des
-infractions de toute nature commises par les membres des forces armées ou les personnes à la suite de l'armée en vertu d'une
-autorisation.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Hors du territoire de la République et sous réserve des engagements internationaux, les juridictions de Paris spécialisées en
+matière militaire connaissent des infractions de toute nature commises par les membres des forces armées ou les personnes à
+la suite de l'armée en vertu d'une autorisation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 59
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 
 ###### Article L121-2
@@ -2005,80 +1562,60 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 ###### Article L121-6
 
-Le tribunal aux armées est incompétent à l'égard des mineurs de dix-huit ans, sauf s'ils sont membres des forces armées ou
-lorsque aucune juridiction française des mineurs n'a compétence à leur égard. Ce même tribunal est compétent à l'égard des
-mineurs de dix-huit ans lorsque ceux-ci sont ressortissants d'un Etat occupé ou d'un Etat ennemi à l'époque des faits
-reprochés.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Les juridictions mentionnées à l'article L. 121-1 sont incompétentes à l'égard des mineurs de dix-huit ans, sauf s'ils sont
+membres des forces armées ou lorsque aucune juridiction française des mineurs n'a compétence à leur égard. Ces mêmes
+juridictions sont compétentes à l'égard des mineurs de dix-huit ans lorsque ceux-ci sont ressortissants d'un Etat occupé ou
+d'un Etat ennemi à l'époque des faits reprochés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 64
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 
 ###### Article L121-7
 
-Sont justiciables du tribunal aux armées tous auteurs ou complices d'une infraction contre les forces armées françaises ou
-contre leurs établissements ou matériels, si elle est réprimée par la loi pénale française.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Sont justiciables des juridictions de Paris spécialisées en matière militaire tous auteurs ou complices d'une infraction
+contre les forces armées françaises ou contre leurs établissements ou matériels, si elle est réprimée par la loi pénale
+française.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 65
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 
 ###### Article L121-8
 
-Sous réserve des dispositions de l'article L. 121-6, la compétence du tribunal aux armées s'étend à tous auteurs ou complices
-lorsque l'un deux est justiciable de ces juridictions.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Sous réserve des dispositions de l'article L. 121-6, la compétence des juridictions de Paris spécialisées en matière
+militaire s'étend à tous auteurs ou complices lorsque l'un deux est justiciable de ces juridictions.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 66
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - Code de justice militaire L121-6
+	  - Code de justice militaire
 
 
 #### Chapitre II : En temps de guerre.
@@ -2243,26 +1780,19 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 ###### Article L123-1
 
-Lorsque le présent code définit ou réprime des infractions imputables à des justiciables étrangers aux armées, les
-juridictions des forces armées sont compétentes à l'égard de l'auteur ou du complice, sauf disposition contraire.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Lorsque le présent code définit ou réprime des infractions imputables à des justiciables étrangers aux armées, la juridiction
+saisie est compétente à l'égard de l'auteur ou du complice, sauf disposition contraire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 73
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cité par**:
 
@@ -2324,35 +1854,27 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 ###### Article L123-4
 
-En temps de paix, lorsqu'un justiciable, postérieurement à l'ouverture des poursuites devant une juridiction des forces
-armées, a établi sa résidence hors du ressort de la juridiction saisie, il peut être fait application des règles prévues par
-les deuxième, troisième et quatrième alinéas de l'article 665 du code de procédure pénale. Il en est de même lorsque ce
-justiciable a formé opposition à la condamnation prononcée contre lui.
+En temps de paix, lorsqu'un justiciable, postérieurement à l'ouverture des poursuites devant la juridiction de Paris
+spécialisée en matière militaire, a établi sa résidence hors du ressort de la juridiction saisie, il peut être fait
+application des règles prévues par les quatre derniers alinéas de l'article 665 du code de procédure pénale. Il en est de
+même lorsque ce justiciable a formé opposition à la condamnation prononcée contre lui. 
 
 En temps de guerre il est fait application des dispositions de l'article L. 254-4.
 
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 76
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - Code de justice militaire L254-4
-	  - CODE DE PROCEDURE PENALE - art. 665 (M)
+	  - Code de procédure pénale - art. 665
 
 
 ###### Article L123-5
@@ -2398,39 +1920,28 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 ###### Article L211-1
 
 Un arrêté du ministre de la défense désigne les autorités militaires habilitées, sous son autorité, à dénoncer les
-infractions ou à donner un avis sur les poursuites éventuelles.
+infractions ou à donner un avis sur les poursuites éventuelles. 
 
-Le procureur de la République près le tribunal aux armées reçoit les plaintes et les dénonciations.
-
-Il exerce les attributions et prérogatives reconnues au procureur de la République par les articles 41 à 42 du code de
-procédure pénale.
-
-Il est assisté par les officiers de police judiciaire des forces armées.
+Le procureur de la République près le tribunal de grande instance de Paris reçoit les plaintes et les dénonciations. Il
+dirige l'activité des officiers de police judiciaire des forces armées conformément aux dispositions du code de procédure
+pénale. 
 
 Les dispositions du second alinéa de l'article 40 du code de procédure pénale sont applicables.
 
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 80
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 40 (M)
-	  - Code de procédure pénale 41 à 42, 40
+	  - Code de procédure pénale - art. 40
 
 	**Cité par**:
 
@@ -2488,49 +1999,38 @@ et par les autres dispositions de ce code auxquelles se réfère cet article.
 
 Les dispositions des articles 55 et 61 du même code sont également applicables.
 
-Ils sont tenus, à l'égard du procureur de la République près le tribunal aux armées, des obligations prévues par l'article 19
-du même code.
+Ils sont tenus, à l'égard du procureur de la République près le tribunal de grande instance de Paris, des obligations prévues
+par l'article 19 du même code.
 
 Ils ont compétence dans les limites territoriales où ils exercent leurs fonctions habituelles.
 
-En cas d'urgence, soit sur instructions du procureur de la République près le tribunal aux armées au cours d'une enquête
-préliminaire ou d'une enquête de flagrance, soit sur commission rogatoire expresse du juge d'instruction, ils peuvent
-procéder aux opérations prescrites par ces autorités en tous lieux qui leur sont désignés.
+En cas d'urgence, soit sur instructions du procureur de la République près le tribunal de grande instance de Paris au cours
+d'une enquête préliminaire ou d'une enquête de flagrance, soit sur commission rogatoire expresse du juge d'instruction, ils
+peuvent procéder aux opérations prescrites par ces autorités en tous lieux qui leur sont désignés.
 
 Les officiers de police judiciaire des forces armées mentionnés au 2° ci-dessus ont compétence dans les limites territoriales
 où ils exercent les missions particulières qui leur sont dévolues par les lois ou les règlements.
 
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 82
 
 	**Cite**:
 
-	  - Ordonnance 2006-637 2006-06-01
-	  - Code de justice militaire - art. 4 (M)
-	  - CODE DE PROCEDURE PENALE - art. 16 (M)
-	  - CODE DE PROCEDURE PENALE - art. 17 (V)
-	  - CODE DE PROCEDURE PENALE - art. 19 (V)
-	  - CODE DE PROCEDURE PENALE - art. 55 (M)
-	  - CODE DE PROCEDURE PENALE - art. 61 (V)
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Code de justice militaire - art. 4
+	  - Code de procédure pénale - art. 16
+	  - Code de procédure pénale - art. 17
+	  - Code de procédure pénale - art. 19
+	  - Code de procédure pénale - art. 55
+	  - Code de procédure pénale - art. 61
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
 
 	**Modifié par**:
 
-	  - Loi n°2007-289 2007-03-05 art. 2 4° JORF 6 mars 2007 en vigueur le 12 mai 2007
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cité par**:
 
@@ -2541,32 +2041,25 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 Les gendarmes qui ne sont pas officiers de police judiciaire des forces armées disposent des pouvoirs attribués aux agents de
 police judiciaire par l'article 20 du code de procédure pénale et peuvent, notamment, procéder à des enquêtes préliminaires
-soit d'office, soit sur instructions du procureur de la République près le tribunal aux armées.
+soit d'office, soit sur instructions du procureur de la République près le tribunal de grande instance de Paris.
 
 Les militaires non assermentés qui sont appelés à servir dans les prévôtés secondent les officiers de police judiciaire des
 forces armées sous les ordres desquels ils sont placés et leur rendent compte des infractions dont ils ont connaissance.
 
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 83
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 20 (M)
+	  - Code de procédure pénale - art. 20
 
 
 ###### Article L211-5
@@ -2642,64 +2135,49 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 ###### Article L211-7
 
 En cas de découverte d'un cadavre, l'officier de police judiciaire des forces armées et le procureur de la République près le
-tribunal aux armées appliquent les dispositions prévues par l'article 74 du code de procédure pénale.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+tribunal de grande instance de Paris appliquent les dispositions prévues par l'article 74 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 86
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 74 (M)
+	  - Code de procédure pénale - art. 74
 
 
 ##### Section 2 : De la garde à vue.
 
 ###### Article L211-8
 
-Les formes et conditions de la garde à vue fixées par les articles 63 à 65, 77 à 78 et 154 du code de procédure pénale sont
-applicables. Les attributions du procureur de la République et du juge d'instruction sont respectivement remplies par le
-procureur de la République près le tribunal aux armées et le juge d'instruction du tribunal aux armées.
-
-Ces magistrats peuvent, le cas échéant, déléguer leurs pouvoirs respectivement au procureur de la République ou au juge
-d'instruction du tribunal de grande instance dans le ressort duquel la garde à vue est exercée.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Pour l'application des articles 63 à 64,77 à 78 et 154 du code de procédure pénale, le procureur de la République près le
+tribunal de grande instance de Paris ou le juge d'instruction de ce tribunal spécialisé en matière militaire peuvent, le cas
+échéant, déléguer leurs pouvoirs, respectivement, au procureur de la République ou au juge d'instruction du tribunal de
+grande instance dans le ressort duquel la garde à vue est mise en œuvre.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 87
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 154 (M)
-	  - Code de procédure pénale 63 à 65, 77 à 78, 154
+	  - Code de procédure pénale - art. 154
+	  - Code de procédure pénale - art. 64
+	  - Code de procédure pénale - art. 78
 
 	**Cité par**:
 
@@ -2734,27 +2212,21 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 ###### Article L211-10
 
-S'il apparaît au procureur de la République près le tribunal aux armées que la procédure d'enquête de police judiciaire dont
-il est saisi a trait à une affaire ne relevant pas de la juridiction à laquelle il est attaché, il envoie les pièces au
-ministère public près la juridiction compétente et met, s'il y a lieu, la personne appréhendée à sa disposition.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+S'il apparaît au procureur de la République près le tribunal de grande instance de Paris que la procédure d'enquête de police
+judiciaire dont il est saisi a trait à une affaire ne relevant pas de la juridiction spécialisée en matière militaire, il
+envoie les pièces au ministère public près la juridiction compétente et met, s'il y a lieu, la personne appréhendée à sa
+disposition.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 90
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 
 ##### Section 3 : De l'action civile et de l'action publique.
@@ -2762,60 +2234,45 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 ###### Article L211-11
 
 Les règles relatives à la mise en mouvement de l'action publique et à l'exercice de l'action civile en réparation du dommage
-causé par l'une des infractions de la compétence du tribunal aux armées sont celles prévues par le code de procédure pénale,
-sous réserve des dispositions particulières prévues aux articles 698-1 à 698-9 du même code et des dispositions de la
-présente section.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+causé par l'une des infractions de la compétence des juridictions de Paris spécialisées en matière militaire sont celles
+prévues par le code de procédure pénale, sous réserve des dispositions particulières prévues aux articles 698-1 à 698-9 du
+même code et des dispositions de la présente section.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 91
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - Code de procédure pénale 698-1 à 698-9
+	  - Code de procédure pénale
 
 
 ###### Article L211-12
 
-Les modes d'extinction de l'action publique prévus par les articles 6 à 9 du code de procédure pénale sont applicables devant
-les juridictions des forces armées, sous réserve des dispositions relatives à la prescription prévues à l'article L. 211-13.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Les modes d'extinction de l'action publique prévus par les articles 6 à 9 du code de procédure pénale sont applicables, sous
+réserve des dispositions relatives à la prescription prévues à l'article L. 211-13.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 93
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - Code de justice militaire L211-13
-	  - Code de procédure pénale 6 à 9
+	  - Code de procédure pénale - art. 9
 
 	**Cité par**:
 
@@ -2853,27 +2310,21 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 ###### Article L211-14
 
-Lorsqu'une infraction de la compétence du tribunal aux armées a été commise et que les auteurs en sont restés inconnus, ou
-que, sans que l'identification résulte expressément des pièces produites, il y a présomption que la qualité des auteurs les
-rend justiciables de cette juridiction, la dénonciation peut être déposée contre personnes non dénommées.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Lorsqu'une infraction de la compétence des juridictions de Paris spécialisées en matière militaire a été commise et que les
+auteurs en sont restés inconnus, ou que, sans que l'identification résulte expressément des pièces produites, il y a
+présomption que la qualité des auteurs les rend justiciables de cette juridiction, la dénonciation peut être déposée contre
+personnes non dénommées.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 99
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 
 ##### Section 4 : Des juridictions d'instruction
@@ -2882,31 +2333,24 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 ###### Article L211-15
 
-Les infractions de la compétence du tribunal aux armées sont instruites selon les dispositions du code de procédure pénale,
-sous réserve des dispositions particulières prévues aux articles 698-1 à 698-9 du même code et des dispositions de la
-présente section.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Les infractions de la compétence des juridictions de Paris spécialisées en matière militaire sont instruites selon les
+dispositions du code de procédure pénale, sous réserve des dispositions particulières prévues aux articles 698-1 à 698-9 du
+même code et des dispositions de la présente section.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 101
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - Code de procédure pénale 698-1 à 698-9
+	  - Code de procédure pénale
 
 
 ###### Article L211-16
@@ -2936,27 +2380,20 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 ###### Article L211-17
 
-Les dispositions du code de procédure pénale relatives aux expertises sont applicables devant les juridictions militaires
-d'instruction et de jugement, les magistrats appelés à faire procéder à des expertises pouvant aussi choisir librement les
-experts parmi tous les personnels spécialisés dépendant du ministère de la défense.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Les dispositions du code de procédure pénale relatives aux expertises sont applicables devant les juridictions d'instruction
+et de jugement, les magistrats appelés à faire procéder à des expertises pouvant aussi choisir librement les experts parmi
+tous les personnels spécialisés dépendant du ministère de la défense.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 110
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 
 ###### Article L211-18
@@ -3159,35 +2596,43 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 ###### Article L211-24
 
 Lorsque le juge d'instruction ou la chambre de l'instruction a rendu une décision de non-lieu, il appartient au ministre de
-la défense ou à l'autorité mentionnée à l'article L. 211-1 de dénoncer au procureur de la République près le tribunal aux
-armées les charges nouvelles définies par l'article 189 du code de procédure pénale.
+la défense ou à l'autorité mentionnée à l'article L. 211-1 de dénoncer au procureur de la République près le tribunal de
+grande instance de Paris les charges nouvelles définies par l'article 189 du code de procédure pénale.
 
-Si le procureur de la République près le tribunal aux armées envisage, à défaut de dénonciation, de requérir la réouverture
-de l'information sur ces charges, il lui appartient de recueillir l'avis de l'autorité mentionnée au premier alinéa. La
-dénonciation ou l'avis est classé au dossier de la procédure.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Si le procureur de la République près le tribunal de grande instance de Paris envisage, à défaut de dénonciation, de requérir
+la réouverture de l'information sur ces charges, il lui appartient de recueillir l'avis de l'autorité mentionnée au premier
+alinéa. La dénonciation ou l'avis est classé au dossier de la procédure.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 152
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - Code de justice militaire L211
-	  - CODE DE PROCEDURE PENALE - art. 189 (V)
+	  - Code de justice militaire
+	  - Code de procédure pénale - art. 189
+
+
+##### Section 5 : De la défense
+
+###### Article L211-25
+
+Les personnes mentionnées au chapitre Ier du titre II du livre Ier peuvent faire assurer leur défense par un avocat ou, si
+l'éloignement y fait obstacle, par un militaire qu'elles choisissent sur une liste établie par le président du tribunal de
+grande instance de Paris.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 
 #### Chapitre II : En temps de guerre
@@ -3572,9 +3017,9 @@ Les perquisitions dans les locaux d'une entreprise de presse ou de communication
 par un magistrat qui veille à ce que les investigations conduites ne portent pas atteinte au libre exercice de la profession
 de journaliste et ne constituent pas un obstacle ou n'entraînent pas un retard injustifiés à la diffusion de l'information.
 
-Les perquisitions dans le cabinet d'un médecin, d'un notaire, d'un avoué ou d'un huissier de justice sont opérées par un
-magistrat et en présence de la personne responsable de l'organisation professionnelle ou de l'ordre auquel appartient
-l'intéressé ou de son représentant.
+Les perquisitions dans le cabinet d'un médecin, d'un notaire ou d'un huissier de justice sont opérées par un magistrat et en
+présence de la personne responsable de l'organisation professionnelle ou de l'ordre auquel appartient l'intéressé ou de son
+représentant.
 
 **Nota:**
 
@@ -3587,12 +3032,12 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
 
 	**Modifié par**:
 
-	  - Loi n°2007-289 2007-03-05 art. 2 5° JORF 6 mars 2007 en vigueur le 12 mai 2007
+	  - Loi n°2011-94 du 25 janvier 2011 - art. 32
 
 
 ###### Article L212-12
@@ -8904,82 +8349,6 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 #### Chapitre Ier : En temps de paix et hors du territoire de la République.
 
-###### Article L221-1
-
-En temps de paix et hors du territoire de la République, les infractions mentionnées à l'article L. 121-1 sont jugées par le
-tribunal aux armées selon les règles de procédure prévues par le code de procédure pénale, sous réserve des dispositions
-particulières prescrites aux articles 698-1 à 698-9 du même code et de celles prévues au présent chapitre.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 202
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
-
-	**Cite**:
-
-	  - Code de justice militaire
-	  - Code de procédure pénale
-
-
-###### Article L221-2
-
-Les jugements rendus par le tribunal aux armées peuvent être attaqués par la voie de l'appel dans les conditions prévues par
-le code de procédure pénale.
-
-Toutefois, en cas d'appel d'une décision de condamnation ou d'acquittement rendue en matière criminelle et par dérogation au
-deuxième alinéa de l'article 380-1 du code de procédure pénale, la chambre criminelle de la Cour de cassation désigne soit
-une cour d'assises d'appel compétente en matière militaire, soit le même tribunal aux armées, autrement composé, pour
-connaître de l'appel. Si la chambre criminelle considère qu'il existe un risque de divulgation d'un secret de la défense
-nationale, l'appel est porté devant le tribunal aux armées, autrement composé.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 203
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
-
-	**Modifié par**:
-
-	  - Loi n°2007-289 2007-03-05 art. 2 7° JORF 6 mars 2007 en vigueur le 12 mai 2007
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
-
-	**Cite**:
-
-	  - Code de procédure pénale - art. 380-1
-
-
 ###### Article L221-3
 
 Lorsque, postérieurement à une condamnation non définitive prononcée par défaut contre un insoumis ou un déserteur, le
@@ -9009,71 +8378,6 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 	**Cité par**:
 
 	  - Code de procédure pénale - art. 698-5 (V)
-
-
-###### Article L221-4
-
-Pour le jugement des crimes, le tribunal aux armées est composé d'un président et, lorsqu'il statue en premier ressort, de
-six assesseurs, ou, lorsqu'il statue en appel, de huit assesseurs. Les dispositions des deuxième au cinquième alinéas de
-l'article 698-6 du code de procédure pénale sont applicables au tribunal ainsi composé. Toutefois, ces dispositions ne sont
-applicables, pour le jugement des crimes de droit commun commis dans l'exécution du service par les militaires, que s'il
-existe un risque de divulgation d'un secret de la défense nationale. L'ordonnance de mise en accusation prononcée par le juge
-d'instruction du tribunal aux armées constate, s'il y a lieu, qu'il existe un risque de divulgation d'un secret de la défense
-et ordonne que le tribunal aux armées soit composé conformément aux dispositions du présent alinéa.
-
-Pour le jugement des crimes de droit commun commis par des militaires dans l'exécution du service, lorsqu'il n'a pas été fait
-application des dispositions de l'alinéa précédent, le tribunal aux armées comprend le tribunal proprement dit et le jury. Le
-tribunal proprement dit est composé d'un président et deux assesseurs. Le jury est composé conformément aux articles 254 à
-258 et 293 à 305 du code de procédure pénale, sous réserve des dispositions prévues aux troisième à cinquième alinéas du
-présent article.
-
-Trente jours au moins avant l'audience, le président du tribunal aux armées ou son délégué établit la liste du jury de la
-juridiction et la liste des jurés suppléants, en procédant conformément aux dispositions de l'article 266 du code de
-procédure pénale. Pour l'application de ces dispositions, il est fait usage de la liste annuelle établie pour la cour
-d'assises dans le ressort de laquelle le tribunal aux armées a son siège. Si, parmi les noms tirés au sort, figurent ceux
-d'une ou plusieurs personnes déjà inscrites sur les listes de session ou les listes des jurés suppléants établies
-précédemment pour la cour d'assises susmentionnée par tirage au sort sur la même liste annuelle, il procède conformément aux
-dispositions du deuxième alinéa de l'article 266 du code de procédure pénale.
-
-Le préfet notifie à chacun des jurés et jurés suppléants l'extrait de la liste le concernant dans les formes et délais prévus
-à l'article 267 du code de procédure pénale.
-
-A l'ouverture de l'audience, le tribunal procède à la révision de la liste du jury conformément aux dispositions des articles
-288 à 292 du code de procédure pénale.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 205
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
-
-	**Cite**:
-
-	  - Ordonnance n°2006-637 du 1 juin 2006
-	  - Code de procédure pénale
-	  - Code de procédure pénale - art. 266
-	  - Code de procédure pénale - art. 267
-	  - Code de procédure pénale - art. 698-6
-
-	**Modifié par**:
-
-	  - Loi n°2007-289 2007-03-05 art. 2 8°, 9° JORF 6 mars 2007 en vigueur le 12 mai 2007
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 
 #### Chapitre II : En temps de guerre.
@@ -11400,38 +10704,6 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 #### Chapitre Ier : Du pourvoi en cassation
 
-##### Section 1 : En temps de paix et hors du territoire de la République.
-
-###### Article L231-1
-
-Les dispositions du code de procédure pénale relatives au pourvoi en cassation sont applicables aux jugements rendus en
-dernier ressort par le tribunal aux armées.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 263
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-637 du 1 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
-
-
-##### Section 2 : En temps de guerre.
-
 ###### Article L231-2
 
 Les jugements rendus en dernier ressort par les juridictions des forces armées peuvent faire l'objet d'un pourvoi en
@@ -11447,23 +10719,19 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 263
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
 
 	**Modifié par**:
 
-	  - Loi n°2007-289 du 5 mars 2007 - art. 2
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - Code de justice militaire L231-3 à L231-10
-	  - CODE DE PROCEDURE PENALE - art. 567 (M)
+	  - Code de justice militaire
+	  - Code de procédure pénale - art. 567
 
 
 ###### Article L231-3
@@ -11483,14 +10751,14 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 264
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 
 ###### Article L231-4
@@ -11512,18 +10780,18 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 265
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - Code de justice militaire L222-70
+	  - Code de justice militaire
 
 
 ###### Article L231-5
@@ -11541,18 +10809,18 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 266
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - Code de justice militaire L231-4
+	  - Code de justice militaire
 
 
 ###### Article L231-6
@@ -11575,22 +10843,18 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 267
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
 
 	**Modifié par**:
 
-	  - Loi n°2007-289 2007-03-05 art. 2 13° JORF 6 mars 2007 en vigueur le 12 mai 2007
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - Code de justice militaire L212-142
+	  - Code de justice militaire
 
 
 ###### Article L231-7
@@ -11611,18 +10875,18 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 268
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - Code de justice militaire L212-142
+	  - Code de justice militaire
 
 
 ###### Article L231-8
@@ -11641,14 +10905,14 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 269
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 
 ###### Article L231-9
@@ -11671,14 +10935,14 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 270
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 
 ###### Article L231-10
@@ -11696,14 +10960,14 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 271
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 
 #### Chapitre II : Du pourvoi dans l'intérêt de la loi.
@@ -11739,38 +11003,6 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 #### Chapitre III : Des demandes en révision
 
-##### Section 1 : En temps de paix et hors du territoire de la République.
-
-###### Article L233-1
-
-Les dispositions du code de procédure pénale relatives aux demandes en révision sont applicables aux jugements rendus par le
-tribunal aux armées.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 273
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
-
-
-##### Section 2 : En temps de guerre.
-
 ###### Article L233-2
 
 La procédure prévue aux articles 622 et suivants du code de procédure pénale est applicable aux demandes en révision formées
@@ -11785,18 +11017,18 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 273
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 622 (M)
+	  - Code de procédure pénale - art. 622
 
 
 ###### Article L233-3
@@ -11820,20 +11052,20 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 274
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - Code de justice militaire L222-2
-	  - CODE DE PROCEDURE PENALE - art. 625 (M)
-	  - CODE DE PROCEDURE PENALE - art. 626 (M)
+	  - Code de justice militaire
+	  - Code de procédure pénale - art. 625
+	  - Code de procédure pénale - art. 626
 
 
 ###### Article L233-4
@@ -11858,18 +11090,18 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 275
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - Code de justice militaire L212-43 à L212-45
+	  - Code de justice militaire
 
 
 ### TITRE IV : DES CITATIONS ET NOTIFICATIONS
@@ -11878,29 +11110,22 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 ###### Article L241-1
 
-Devant le tribunal aux armées, les citations aux prévenus, à la partie civile, et aux témoins et experts que le ministère
-public se propose de faire entendre, ainsi que les notifications des décisions des juridictions d'instruction ou de jugement
-et des arrêts de la Cour de cassation, sont faites, sans frais, soit par les greffiers et les huissiers-appariteurs, soit par
-tous agents de la force publique.
+Devant les juridictions de Paris spécialisées en matière militaire, les citations aux prévenus, à la partie civile, et aux
+témoins et experts que le ministère public se propose de faire entendre, ainsi que les notifications des décisions des
+juridictions d'instruction ou de jugement et des arrêts de la Cour de cassation, sont faites, sans frais, soit par les
+greffiers et les huissiers-appariteurs, soit par tous agents de la force publique.
 
 Il en est de même, devant les juridictions militaires du temps de guerre, des citations et notifications des décisions.
 
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 276
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
+	  - Ordonnance n°2006-637 du 1 juin 2006
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 
 ###### Article L241-2
@@ -14550,33 +13775,23 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 ###### Article L261-1
 
-Les jugements rendus par le tribunal aux armées sont exécutés selon les règles du code de procédure pénale, sous réserve des
-dispositions de l'article L. 261-6.
-
 Les dispositions des articles L. 261-2 à L. 261-12 sont applicables aux jugements rendus par les juridictions militaires en
 temps de guerre.
 
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 345
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - Code de justice militaire L261-6, L261-2 à L261-12
+	  - Code de justice militaire
 
 
 ###### Article L261-2
@@ -14902,57 +14117,41 @@ adressé par le commissaire du Gouvernement près la juridiction des forces arm�
 
 ###### Article L262-1
 
-En tous temps, les peines privatives de liberté prononcées contre les justiciables des juridictions des forces armées sont
-subies conformément aux dispositions du droit commun, sous réserve des dispositions des articles L. 211-21 et L. 262-2.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+En tous temps, les peines privatives de liberté prononcées contre les justiciables des juridictions des forces armées et des
+juridictions de Paris spécialisées en matière militaire sont subies conformément aux dispositions du droit commun, sous
+réserve des dispositions des articles L. 211-21 et L. 262-2.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 356
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - Code de justice militaire L211-21, L262-2
+	  - Code de justice militaire
 
 
 ###### Article L262-2
 
-Pour l'exécution des peines prononcées contre les militaires ou assimilés tant par le tribunal aux armées que par les
-tribunaux de droit commun, est réputé détention provisoire le temps pendant lequel l'individu a été privé de sa liberté, même
-par mesure disciplinaire, si celle-ci a été prise pour le même motif.
-
-Il en est de même, en temps de guerre, pour l'exécution des peines prononcées par les juridictions militaires.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+Pour l'exécution des peines prononcées contre les militaires ou assimilés, est réputé détention provisoire le temps pendant
+lequel l'individu a été privé de sa liberté, même par mesure disciplinaire, si celle-ci a été prise pour le même motif.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 357
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cité par**:
 
@@ -15300,8 +14499,8 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 ###### Article L265-1
 
-En cas de condamnation à l'emprisonnement ou à l'amende, la juridiction des forces armées peut décider qu'il est sursis à
-l'exécution dans les conditions prévues aux articles 132-29 à 132-57 du code pénal.
+En cas de condamnation à l'emprisonnement ou à l'amende, la juridiction saisie peut décider qu'il est sursis à l'exécution
+dans les conditions prévues aux articles 132-29 à 132-57 du code pénal.
 
 Il peut être fait application de ces dispositions à toute condamnation à l'emprisonnement pour crime ou délit de droit commun
 ou pour crime ou délit militaire, sous réserve, en ce qui concerne le sursis avec mise à l'épreuve, des dispositions
@@ -15317,30 +14516,23 @@ leur condamnation, les personnes étrangères aux armées et justiciables des ju
 la vie civile, les militaires et assimilés mentionnés aux articles L. 121-3 à L. 121-5, lorsque le délai d'épreuve qui leur a
 été imparti par le tribunal n'est pas expiré.
 
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 369
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - Code pénal - art. 132-44 (M)
-	  - Code pénal 132-29 à 132-57, 132-44
-	  - Code de justice militaire L121-3 à L121-5
-	  - CODE DE PROCEDURE PENALE - art. 739 (M)
+	  - Code pénal
+	  - Code pénal - art. 132-44
+	  - Code de justice militaire
+	  - Code de procédure pénale - art. 739
 
 	**Cité par**:
 
@@ -15379,30 +14571,23 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 Les condamnations prononcées pour crime ou délit militaire ne peuvent constituer le condamné en état de récidive.
 
-Les juridictions des forces armées appliquent les dispositions des articles 132-8 à 132-15 du code pénal pour le jugement des
-infractions de droit commun.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+La juridiction saisie applique les dispositions des articles 132-8 à 132-15 du code pénal pour le jugement des infractions de
+droit commun.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 371
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - Code pénal 132-8 à 132-15
+	  - Code pénal
 
 	**Cité par**:
 
@@ -15769,32 +14954,22 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 ###### Article L271-1
 
-Les dispositions de l'article 11 du code de procédure pénale s'appliquent aux personnes qui apportent leur concours aux
-procédures ressortissant aux juridictions des forces armées.
-
-En temps de guerre, seules les dispositions des premier et deuxième alinéas du même article sont applicables.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+En temps de guerre, seuls les premier et deuxième alinéas de l'article 11 du code de procédure pénale sont applicables.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 78
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 11 (M)
+	  - Code de procédure pénale - art. 11
 
 
 ###### Article L271-2
