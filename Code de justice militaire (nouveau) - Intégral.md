@@ -1,5 +1,5 @@
 # Code de justice militaire (nouveau)  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-08-25
 
 # Partie législative
 
@@ -109,8 +109,6 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 ## LIVRE Ier : ORGANISATION ET COMPÉTENCE DE LA JUSTICE MILITAIRE
 
 ### TITRE Ier : ORGANISATION
-
-#### Chapitre Ier : Du tribunal aux armées en temps de paix
 
 #### Chapitre Ier : Des juridictions compétentes en matière militaire en temps de paix
 
@@ -19126,7 +19124,7 @@ justificatives.
 
 Dans un délai de quinze jours à compter de la réception de la requête, le secrétaire de la commission en transmet copie au
 procureur général près la Cour de cassation et, par lettre recommandée avec demande d'avis de réception, à l'agent judiciaire
-du Trésor.
+de l'Etat. 
 
 Il demande au greffe de la juridiction qui a rendu la décision de non-lieu, de relaxe ou d'acquittement la communication du
 dossier de la procédure.
@@ -19135,7 +19133,11 @@ dossier de la procédure.
 
 	**Codifié par**:
 
-	  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
+	  - Décret n°2007-759 du 10 mai 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-985 du 23 août 2012 - art. 4
 
 
 ###### Article R212-30
@@ -19152,27 +19154,31 @@ communication du dossier au secrétariat de la commission.
 
 ###### Article R212-31
 
-L'agent judiciaire du Trésor peut prendre connaissance du dossier de la procédure pénale au secrétariat de la commission. Il
-lui est délivré sans frais, sur sa demande, copie des pièces.
+L'   agent judiciaire de l'Etat peut prendre connaissance du dossier de la procédure pénale au secrétariat de la commission.
+Il lui est délivré sans frais, sur sa demande, copie des pièces. 
 
-L'agent judiciaire du Trésor dépose ses conclusions au secrétariat de la commission dans le délai de deux mois à compter de
+L'agent judiciaire de l'Etat dépose ses conclusions au secrétariat de la commission dans le délai de deux mois à compter de
 la réception de la lettre recommandée prévue à l'article R. 212-29.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
+	  - Décret n°2007-759 du 10 mai 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-985 du 23 août 2012 - art. 4
 
 	**Cite**:
 
-	  - Code de justice militaire R212-29
+	  - Code de justice militaire
 
 
 ###### Article R212-32
 
-Lorsque l'agent judiciaire du Trésor a déposé ses conclusions ou à l'expiration du délai prévu à l'article R. 212-31, le
-secrétaire de la commission transmet le dossier au procureur général près la Cour de cassation.
+Lorsque l'agent judiciaire de l'Etat a déposé ses conclusions ou à l'expiration du délai prévu à l'article R. 212-31, le
+secrétaire de la commission transmet le dossier au procureur général près la Cour de cassation. 
 
 Le procureur général dépose ses conclusions dans le mois suivant.
 
@@ -19180,40 +19186,52 @@ Le procureur général dépose ses conclusions dans le mois suivant.
 
 	**Codifié par**:
 
-	  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
+	  - Décret n°2007-759 du 10 mai 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-985 du 23 août 2012 - art. 4
 
 	**Cite**:
 
-	  - Code de justice militaire R212-31
+	  - Code de justice militaire
 
 
 ###### Article R212-33
 
 Le secrétaire de la commission notifie au demandeur, par lettre recommandée avec demande d'avis de réception, dans le délai
-de quinze jours à compter de leur dépôt, les conclusions de l'agent judiciaire du Trésor et celles du procureur général.
+de quinze jours à compter de leur dépôt, les conclusions de l'agent judiciaire de l'Etat et celles du procureur général.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
+	  - Décret n°2007-759 du 10 mai 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-985 du 23 août 2012 - art. 4
 
 
 ###### Article R212-34
 
 Dans le délai d'un mois à compter de la dernière des notifications prévues à l'article R. 212-33, le demandeur remet ou
-adresse au secrétaire de la commission ses observations en réponse qui sont communiquées à l'agent judiciaire du Trésor et au
+adresse au secrétaire de la commission ses observations en réponse qui sont communiquées à l'agent judiciaire de l'Etat et au
 procureur général dans le délai de quinze jours.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
+	  - Décret n°2007-759 du 10 mai 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-985 du 23 août 2012 - art. 4
 
 	**Cite**:
 
-	  - Code de justice militaire R212-33
+	  - Code de justice militaire
 
 
 ###### Article R212-35
@@ -19247,8 +19265,8 @@ demandeur.
 ###### Article R212-37
 
 Le président de la commission fixe la date de l'audience après avis du procureur général. Cette date est notifiée par le
-secrétaire de la commission, par lettre recommandée avec demande d'avis de réception, au demandeur et à l'agent judiciaire du
-Trésor un mois au moins avant l'audience.
+secrétaire de la commission, par lettre recommandée avec demande d'avis de réception, au demandeur et à l'agent judiciaire de
+l'Etat un mois au moins avant l'audience. 
 
 Le demandeur est invité à faire connaître s'il comparaîtra, assisté ou non d'un avocat, devant la commission pour être
 entendu personnellement ou s'il entend se faire représenter par un avocat.
@@ -19257,24 +19275,32 @@ entendu personnellement ou s'il entend se faire représenter par un avocat.
 
 	**Codifié par**:
 
-	  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
+	  - Décret n°2007-759 du 10 mai 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-985 du 23 août 2012 - art. 4
 
 
 ###### Article R212-38
 
-Le demandeur et l'agent judiciaire du Trésor peuvent être représentés ou assistés par un avocat au Conseil d'Etat et à la
+Le demandeur et l'agent judiciaire de l'Etat peuvent être représentés ou assistés par un avocat au Conseil d'Etat et à la
 Cour de cassation ou par un avocat régulièrement inscrit à un barreau.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
+	  - Décret n°2007-759 du 10 mai 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-985 du 23 août 2012 - art. 4
 
 
 ###### Article R212-39
 
-Après le rapport, le demandeur s'il y a lieu, l'agent judiciaire du Trésor et leurs avocats respectifs sont entendus.
+Après le rapport, le demandeur s'il y a lieu, l'agent judiciaire de l'Etat et leurs avocats respectifs sont entendus. 
 
 Le procureur général développe ses conclusions.
 
@@ -19282,7 +19308,11 @@ Le procureur général développe ses conclusions.
 
 	**Codifié par**:
 
-	  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
+	  - Décret n°2007-759 du 10 mai 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-985 du 23 août 2012 - art. 4
 
 
 ###### Article R212-40
@@ -19314,8 +19344,8 @@ frais de justice, sur un exécutoire établi par le président de la commission.
 
 ###### Article R212-42
 
-La décision de la commission est notifiée sans délai au demandeur et à l'agent judiciaire du Trésor par lettre recommandée
-avec demande d'avis de réception.
+La décision de la commission est notifiée sans délai au demandeur et à l'agent judiciaire de l'Etat par lettre recommandée
+avec demande d'avis de réception. 
 
 Le dossier de la procédure pénale est renvoyé avec une copie de la décision.
 
@@ -19323,7 +19353,11 @@ Le dossier de la procédure pénale est renvoyé avec une copie de la décision.
 
 	**Codifié par**:
 
-	  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
+	  - Décret n°2007-759 du 10 mai 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-985 du 23 août 2012 - art. 4
 
 
 ###### Article R212-43
