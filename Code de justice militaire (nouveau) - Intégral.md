@@ -1,5 +1,5 @@
 # Code de justice militaire (nouveau)  
-Version Consolidée au 2012-08-25
+Version Consolidée au 2012-11-11
 
 # Partie législative
 
@@ -21099,23 +21099,23 @@ la diligence des agents du Trésor en vertu des exécutoires mentionnés ci-dess
 
 Le recouvrement est opéré au nom de la République française selon les dispositions de l'article L. 261-12. 
 
-Il est effectué dans les conditions prévues par les articles 76, 77 et 78 du décret n° 62-1587 du 29 décembre 1962 portant
-règlement général sur la comptabilité publique et par l'article 2, deuxième alinéa (1 et 2) et les articles 3 à 11, 17 et 19
-du décret n° 64-1333 du 22 décembre 1964 relatif au recouvrement des amendes et condamnations pécuniaires par les comptables
+Il est effectué dans les conditions prévues par les articles 108 à 110 du décret n° 2012-1246 du 7 novembre 2012 relatif à la
+gestion budgétaire et comptable publique et par l'article 2, deuxième alinéa (1 et 2) et les articles 3 à 11,17 et 19 du
+décret n° 64-1333 du 22 décembre 1964 relatif au recouvrement des amendes et condamnations pécuniaires par les comptables
 directs du Trésor et compte tenu des dispositions mentionnées à l'article D. 269-23.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 76 (V)
-	  - Décret n°64-1333 du 22 décembre 1964 - art. 3 (V)
-	  - Code de justice militaire. - art. D269-23 (V)
-	  - Code de justice militaire. - art. L261-12 (V)
+	  - Décret n°64-1333 du 22 décembre 1964 - art. 3
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 108
+	  - Code de justice militaire. - art. D269-23
+	  - Code de justice militaire. - art. L261-12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-691 du 10 juillet 2008 - art.
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 14
 
 
 ###### Article D269-23
