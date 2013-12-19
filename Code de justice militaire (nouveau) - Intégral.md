@@ -1,5 +1,5 @@
 # Code de justice militaire (nouveau)  
-Version Consolidée au 2012-11-11
+Version Consolidée au 2013-12-20
 
 # Partie législative
 
@@ -2064,39 +2064,34 @@ forces armées sous les ordres desquels ils sont placés et leur rendent compte 
 
 Les commandants d'armes et majors de garnison, les majors généraux des ports, les commandants de formation administrative ont
 qualité pour faire personnellement, à l'intérieur des établissements militaires, tous les actes nécessaires à l'effet de
-constater les infractions relevant des juridictions des forces armées, d'en rassembler les preuves et d'en rechercher les
-auteurs.
+constater les infractions relevant des juridictions spécialisées en matière militaire, d'en rassembler les preuves et d'en
+rechercher les auteurs. 
 
 Ces autorités peuvent déléguer à un officier placé sous leurs ordres les pouvoirs qui leur sont attribués par les
-dispositions du premier alinéa.
+dispositions du premier alinéa. 
 
 Elles peuvent également requérir tous officiers de police judiciaire des forces armées, territorialement compétents, aux fins
-prévues par les dispositions du quatrième alinéa de l'article L. 211-3.
+prévues par les dispositions du quatrième alinéa de l'article L. 211-3. 
 
 Les obligations et pouvoirs de ces autorités et des officiers par elles délégués sont ceux prévus à l'article L. 211-2, aux
 quatrième et cinquième alinéas de l'article L. 211-3, et aux articles L. 211-8 et L. 211-9.
 
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 84
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 32
 
 	**Cite**:
 
-	  - Code de justice militaire L211-3, L211-2, L211-8, L211-9
+	  - Code de justice militaire. - art. L211-2
+	  - Code de justice militaire. - art. L211-3
+	  - Code de justice militaire. - art. L211-8
 
 	**Cité par**:
 
@@ -2132,8 +2127,9 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 ###### Article L211-7
 
-En cas de découverte d'un cadavre, l'officier de police judiciaire des forces armées et le procureur de la République près le
-tribunal de grande instance de Paris appliquent les dispositions prévues par l'article 74 du code de procédure pénale.
+Pour l'application de l'article 74 du code de procédure pénale, est présumée ne pas avoir une cause inconnue ou suspecte la
+mort violente d'un militaire au cours d'une action de combat se déroulant dans le cadre d'une opération militaire hors du
+territoire de la République.
 
 **Liens relatifs à cet article**
 
@@ -2144,7 +2140,7 @@ tribunal de grande instance de Paris appliquent les dispositions prévues par l'
 
 	**Modifié par**:
 
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 29
 
 	**Cite**:
 
@@ -2233,8 +2229,8 @@ disposition.
 
 Les règles relatives à la mise en mouvement de l'action publique et à l'exercice de l'action civile en réparation du dommage
 causé par l'une des infractions de la compétence des juridictions de Paris spécialisées en matière militaire sont celles
-prévues par le code de procédure pénale, sous réserve des dispositions particulières prévues aux articles 698-1 à 698-9 du
-même code et des dispositions de la présente section.
+prévues par le code de procédure pénale, sous réserve des dispositions des articles 698-1 à 698-9 du même code, de celles de
+l'article 113-8 du code pénal et de celles de la présente section.
 
 **Liens relatifs à cet article**
 
@@ -2245,11 +2241,12 @@ même code et des dispositions de la présente section.
 
 	**Modifié par**:
 
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 30
 
 	**Cite**:
 
-	  - Code de procédure pénale
+	  - Code pénal - art. 113-8
+	  - Code de procédure pénale - art. 698-1
 
 
 ###### Article L211-12
@@ -2526,67 +2523,29 @@ Le contrôle judiciaire prévu aux articles 138 et suivants du code de procédur
 assimilés mentionnés aux articles L. 121-3 et L. 121-5.
 
 Toutefois, il peut être appliqué aux militaires et assimilés qui ont été rendus à la vie civile depuis la date de
-l'infraction ainsi qu'aux personnes étrangères aux armées et justiciables du tribunal aux armées.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+l'infraction ainsi qu'aux personnes étrangères aux armées et justiciables de la juridiction de Paris spécialisée en matière
+militaire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 137
-
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 32
 
 	**Cite**:
 
-	  - Code de justice militaire L121-3, L121-5
-	  - CODE DE PROCEDURE PENALE - art. 138 (M)
+	  - Code de procédure pénale - art. 138
+	  - Code de justice militaire. - art. L121-3
+	  - Code de justice militaire. - art. L121-5
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. 698-5 (V)
-
-
-##### Sous-section 3 : De la chambre de l'instruction.
-
-###### Article L211-23
-
-Les règles relatives à la chambre de l'instruction sont celles prévues par le code de procédure pénale.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ancien code de justice militaire art. 151
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
-
-	**Cité par**:
-
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 56
-
-	**Abrogé par**:
-
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 56
 
 
 ##### Sous-section 4 : De la réouverture de l'information sur charges nouvelles.
