@@ -1,5 +1,5 @@
 # Code de justice militaire (nouveau)  
-Version Consolidée au 2013-12-20
+Version Consolidée au 2014-05-30
 
 # Partie législative
 
@@ -18993,14 +18993,14 @@ somme correspondante, aux fins de versement aux ayants droit.
 
 ###### Article R212-25
 
-Le ministère public, d'office ou à la demande des parties civiles, produit aux services du Trésor, qui assurent au titre des
-produits divers du budget le recouvrement de la fraction du cautionnement acquise à l'État dans le cas prévu au deuxième
-alinéa de l'article L. 212-152, un certificat du greffe établi en double exemplaire constatant la responsabilité encourue par
-la personne mise en examen dans ce cas et, éventuellement, un second certificat mentionnant les condamnations prononcées et
-le numéro de l'extrait du jugement ou d'arrêt dans les cas prévus au deuxième alinéa de l'article L. 212-153, et à l'article
-L. 222-68.
+Le ministère public, d'office ou à la demande des parties civiles, produit aux  services de la direction générale des
+finances publiques, qui assurent au titre des produits divers du budget le recouvrement de la fraction du cautionnement
+acquise à l'État dans le cas prévu au deuxième alinéa de l'article L. 212-152, un certificat du greffe établi en double
+exemplaire constatant la responsabilité encourue par la personne mise en examen dans ce cas et, éventuellement, un second
+certificat mentionnant les condamnations prononcées et le numéro de l'extrait du jugement ou d'arrêt dans les cas prévus au
+deuxième alinéa de l'article L. 212-153, et à l'article L. 222-68. 
 
-La Caisse des dépôts et consignations distribue sans délai, aux ayants droit, les sommes déposées.
+La Caisse des dépôts et consignations distribue sans délai, aux ayants droit, les sommes déposées. 
 
 Toute contestation relative à l'application du présent article est jugée sur requête, en chambre du conseil, comme incident
 de l'exécution du jugement ou de l'arrêt.
@@ -19009,11 +19009,15 @@ de l'exécution du jugement ou de l'arrêt.
 
 	**Codifié par**:
 
-	  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
+	  - Décret n°2007-759 du 10 mai 2007
+
+	**Modifié par**:
+
+	  - Décret n°2014-551 du 27 mai 2014 - art. 15
 
 	**Cite**:
 
-	  - Code de justice militaire L212-152, L212-153, L222-68
+	  - Code de justice militaire
 
 
 ###### Article R212-26
@@ -19291,14 +19295,19 @@ La décision de la commission comporte exécution forcée pour le paiement des d
 ###### Article R212-41
 
 Si la commission accorde une provision ou une indemnité, le paiement de l'indemnité et le remboursement des frais de copie de
-pièces exposées par le demandeur sont faits à ce dernier par le comptable direct du Trésor de Paris chargé du paiement des
-frais de justice, sur un exécutoire établi par le président de la commission.
+pièces exposées par le demandeur sont faits à ce dernier par le     directeur régional des finances publiques d'Ile-de-France
+et du département de Paris chargé du paiement des frais de justice, sur un exécutoire établi par le président de la
+commission.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
+	  - Décret n°2007-759 du 10 mai 2007
+
+	**Modifié par**:
+
+	  - Décret n°2014-551 du 27 mai 2014 - art. 15
 
 
 ###### Article R212-42
@@ -21060,8 +21069,8 @@ Le recouvrement est opéré au nom de la République française selon les dispos
 
 Il est effectué dans les conditions prévues par les articles 108 à 110 du décret n° 2012-1246 du 7 novembre 2012 relatif à la
 gestion budgétaire et comptable publique et par l'article 2, deuxième alinéa (1 et 2) et les articles 3 à 11,17 et 19 du
-décret n° 64-1333 du 22 décembre 1964 relatif au recouvrement des amendes et condamnations pécuniaires par les comptables
-directs du Trésor et compte tenu des dispositions mentionnées à l'article D. 269-23.
+décret n° 64-1333 du 22 décembre 1964 relatif au recouvrement des amendes et condamnations pécuniaires par les   comptables
+de la direction générale des finances publiques et compte tenu des dispositions mentionnées à l'article D. 269-23.
 
 **Liens relatifs à cet article**
 
@@ -21069,12 +21078,12 @@ directs du Trésor et compte tenu des dispositions mentionnées à l'article D. 
 
 	  - Décret n°64-1333 du 22 décembre 1964 - art. 3
 	  - Décret n°2012-1246 du 7 novembre 2012 - art. 108
-	  - Code de justice militaire. - art. D269-23
+	  - Code de justice militaire. - art. D269-23 (V)
 	  - Code de justice militaire. - art. L261-12
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 14
+	  - Décret n°2014-552 du 27 mai 2014 - art. 9
 
 
 ###### Article D269-23
@@ -21083,17 +21092,17 @@ Les extraits de jugement délivrés à l'administration des finances, en exécut
 269-21 ci-dessus, sont établis sur des formules dont le modèle est arrêté par le ministre de la défense et par le ministre
 chargé des finances. 
 
-Ces extraits sont vérifiés et visés par le ministère public, qui les adresse au trésorier-payeur général du département du
-siège de la juridiction des forces armées. 
+Ces extraits sont vérifiés et visés par le ministère public, qui les adresse au   directeur départemental ou, le cas échéant,
+régional des finances publiques du département du siège de la juridiction des forces armées. 
 
 Le délai d'envoi des extraits de jugement est fixé à trente-cinq jours à compter de la date à laquelle la sentence est
 devenue définitive.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-691 du 10 juillet 2008 - art.
+	  - Décret n°2014-552 du 27 mai 2014 - art. 9
 
 	**Cite**:
 
