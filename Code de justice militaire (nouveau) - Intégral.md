@@ -1,5 +1,5 @@
 # Code de justice militaire (nouveau)  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2014-07-03
 
 # Partie législative
 
@@ -18522,27 +18522,6 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 # Partie réglementaire : Décrets en Conseil d'Etat
 
-## LIVRE Ier : ORGANISATION ET COMPÉTENCE DE LA JUSTICE MILITAIRE
-
-### TITRE Ier : ORGANISATION
-
-#### Chapitre Ier : Du siège du tribunal aux armées en temps de paix et hors du territoire de la République.
-
-###### Article R111-1
-
-Le tribunal aux armées siège à Paris. Il est dénommé tribunal aux armées de Paris.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2007-759 2007-05-10 JORF 11 mai 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2014-748 du 30 juin 2014 - art. 1
-
-
 ## LIVRE II : PROCÉDURE PÉNALE MILITAIRE
 
 ### TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION
@@ -19399,136 +19378,6 @@ Les fonctions de secrétaire et de greffier de la commission sont remplies par u
 
 ### TITRE Ier : ORGANISATION
 
-#### Chapitre Ier : Du tribunal aux armées
-
-##### Section 1 : Etablissement
-
-###### Article D111-2
-
-Le tribunal aux armées de Paris comprend deux chambres.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-691 du 10 juillet 2008 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2014-749 du 30 juin 2014 - art. 1
-
-
-###### Article D111-3
-
-Les attributions de la chambre de l'instruction du tribunal aux armées de Paris sont exercées par la chambre de l'instruction
-de la cour d'appel de Paris.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-691 du 10 juillet 2008 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2014-749 du 30 juin 2014 - art. 1
-
-
-##### Section 2 : Personnels
-
-##### Sous-section 1 : Du chef du parquet
-
-###### Article D111-4
-
-Le chef du parquet est le chef de l'administration de la juridiction des forces armées à laquelle il est affecté. Responsable
-du fonctionnement de celle-ci, il exerce son autorité sur le personnel du greffe et assure sous le contrôle du ministère de
-la défense la gestion des dépenses de fonctionnement courant de la juridiction. Dans le cadre de ces attributions, il vise
-les pièces administratives, les expéditions et les extraits délivrés aux requérants, procède ou fait procéder à toutes
-vérifications d'écriture et au recensement du matériel. 
-
-En cas d'absence, ses attributions sont dévolues au magistrat affecté au service du parquet ou de l'instruction le plus
-ancien dans le grade le plus élevé.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-691 du 10 juillet 2008 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2014-749 du 30 juin 2014 - art. 1
-
-	**Cité par**:
-
-	  - Code de justice militaire. - art. D112-22 (V)
-
-
-##### Sous-section 2 : Du chef du service du greffe
-
-###### Article D111-5
-
-L'officier greffier, chef du service du greffe, est chargé de la gestion administrative de la juridiction des forces armées. 
-
-Il tient la comptabilité des opérations de recettes et de dépenses dont il est chargé par le code de procédure pénale, le
-code de justice militaire, les lois et règlements dans la forme prévue pour les régies d'avances et les régies de recettes de
-l'Etat. 
-
-En qualité de régisseur d'avances et de recettes, il dispose d'une caisse, d'un compte de dépôts de fonds au Trésor. Pour
-toutes les opérations qu'il effectue en cette qualité, il est tenu aux garanties et encourt les responsabilités prévues par
-le décret n° 66-850 du 15 novembre 1966 relatif à la responsabilité personnelle et pécuniaire des régisseurs. 
-
-Il gère le matériel appartenant à l'Etat mis à la disposition de la juridiction. 
-
-Il fait tenir les registres, catalogues, pièces administratives servant à la justification des recettes et des dépenses, à
-l'inventaire des matériels et des ouvrages, au classement des archives, à l'enregistrement des appels, référés, requêtes et
-pourvois en cassation, à la transcription des jugements et ordonnances de non-lieu, incompétence et dessaisissement, ainsi
-qu'à la constatation des entrées et sorties des pièces à conviction. 
-
-Les surcharges, interlignes et grattages sont interdits. Les ratures et les renvois sont approuvés par le greffier. 
-
-Il fait établir et certifie conformes aux originaux les expéditions et extraits de pièces. Il les délivre, après visa du
-commissaire du Gouvernement, lorsque leur remise a été autorisée. Les copies ne sont ni visées ni certifiées conformes. 
-
-En cas d'absence ou empêchement de l'officier greffier, ses attributions, en matière de gestion de la régie d'avances et de
-la régie de recettes, peuvent être confiées à l'officier greffier adjoint ou à l'un des commis greffiers placés sous ses
-ordres, désigné par le chef du parquet avec l'agrément de l'officier greffier.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°66-850 du 15 novembre 1966
-
-	**Créé par**:
-
-	  - Décret n°2008-691 du 10 juillet 2008 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2014-749 du 30 juin 2014 - art. 1
-
-
-##### Section 3 : Serment
-
-###### Article D111-6
-
-Les officiers et sous-officiers greffiers et les sous-officiers huissiers-appariteurs, lors de leur nomination dans le corps
-et avant d'entrer en fonctions, prêtent, à la première audience de la juridiction des forces armées à laquelle ils sont
-affectés, le serment suivant :  Je jure de bien et loyalement remplir mes fonctions et d'observer tous les devoirs qu'elles
-m'imposent.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-691 du 10 juillet 2008 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2014-749 du 30 juin 2014 - art. 1
-
-
 #### Chapitre II : Des juridictions des forces armées en temps de guerre
 
 ##### Section 1 : Statuts particuliers des corps spéciaux et d'assimilés spéciaux
@@ -20100,20 +19949,75 @@ réserve d'un autre corps statutaire de l'armée professionnelle.
 
 ##### Section 2 : Du chef du parquet et du chef du service du greffe
 
+##### Sous-section 1 : Du chef du parquet
+
 ###### Article D112-22
 
-Les dispositions des articles D. 111-4 et D. 111-5 sont applicables respectivement au chef du parquet et au chef du service
-du greffe de la juridiction des forces armées du temps de guerre.
+Le chef du parquet est le chef de l'administration de la juridiction des forces armées à laquelle il est affecté. Responsable
+du fonctionnement de celle-ci, il exerce son autorité sur le personnel du greffe et assure sous le contrôle du ministère de
+la défense la gestion des dépenses de fonctionnement courant de la juridiction. Dans le cadre de ces attributions, il vise
+les pièces administratives, les expéditions et les extraits délivrés aux requérants, et procède ou fait procéder à toutes
+vérifications d'écriture et au recensement du matériel. 
+
+En cas d'absence, ses attributions sont dévolues au magistrat affecté au service du parquet ou de l'instruction le plus
+ancien dans le grade le plus élevé.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2014-749 du 30 juin 2014 - art. 2
+
+
+##### Sous-section 2 : Du chef du service du greffe 
+
+###### Article D112-23
+
+L'officier greffier, chef du service du greffe, est chargé de la gestion administrative de la juridiction des forces armées. 
+
+Il tient la comptabilité des opérations de recettes et de dépenses dont il est chargé par le code de procédure pénale, le
+code de justice militaire, ainsi que les lois et règlements dans la forme prévue pour les régies d'avances et les régies de
+recettes de l'Etat. 
+
+En qualité de régisseur d'avances et de recettes, il dispose d'une caisse et d'un compte de dépôts de fonds au Trésor. 
+
+Il gère le matériel appartenant à l'Etat mis à la disposition de la juridiction. 
+
+Il fait tenir les registres, catalogues et pièces administratives servant à la justification des recettes et des dépenses, à
+l'inventaire des matériels et des ouvrages, au classement des archives, à l'enregistrement des appels, référés, requêtes et
+pourvois en cassation, à la transcription des jugements et ordonnances de non-lieu, incompétence et dessaisissement, ainsi
+qu'à la constatation des entrées et sorties des pièces à conviction. 
+
+Les surcharges, interlignes et grattages sont interdits. Les ratures et les renvois sont approuvés par le greffier. 
+
+Il fait établir et certifie conformes aux originaux les expéditions et extraits de pièces. Il les délivre, après visa du
+commissaire du Gouvernement, lorsque leur remise a été autorisée. Les copies ne sont ni visées ni certifiées conformes. 
+
+En cas d'absence ou d'empêchement de l'officier greffier, ses attributions en matière de gestion de la régie d'avances et de
+la régie de recettes peuvent être confiées à l'officier greffier adjoint ou à l'un des commis greffiers placés sous ses
+ordres, désigné par le chef du parquet avec l'agrément de l'officier greffier.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2008-691 du 10 juillet 2008 - art.
+	  - Décret n°2014-749 du 30 juin 2014 - art. 2
 
-	**Cite**:
 
-	  - Code de justice militaire. - art. D111-4
+##### Section 3 :  Serment
+
+###### Article D112-24
+
+Lors  de leur nomination dans le corps et avant d'entrer en fonctions, les  officiers et sous-officiers greffiers et les
+sous-officiers  huissiers-appariteurs prêtent, à la première audience de la juridiction  des forces armées à laquelle ils
+sont affectés, le serment suivant : “Je jure de bien et loyalement remplir mes fonctions et d'observer tous les devoirs
+qu'elles m'imposent.”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-749 du 30 juin 2014 - art. 3
 
 
 ## LIVRE II : PROCÉDURE PÉNALE MILITAIRE
@@ -20376,55 +20280,6 @@ sont faites conformément aux articles D. 211-1 à D. 211-14.
 
 ### TITRE II : PROCÉDURE DEVANT LES JURIDICTIONS DE JUGEMENT
 
-#### Chapitre Ier : En temps de paix et hors du territoire de la République
-
-##### Section unique : De la délivrance des copies et extraits de jugement
-
-###### Article D221-1
-
-Les droits perçus à la diligence de l'officier greffier, à l'occasion de la délivrance des copies de pièces de procédure et
-extraits de jugement, sont versés périodiquement au Trésor et imputés au compte  Recettes accidentelles à différents titres »
-du budget de l'exercice courant.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-691 du 10 juillet 2008 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2014-749 du 30 juin 2014 - art. 4
-
-	**Cité par**:
-
-	  - Code de justice militaire. - art. D222-4 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de justice militaire. - art. D222-4 (V)
-
-
-###### Article D221-2
-
-Les extraits, expéditions ou copies demandées par les parquets et les administrations pour le compte de l'Etat sont délivrés
-à titre gratuit.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-691 du 10 juillet 2008 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2014-749 du 30 juin 2014 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code de justice militaire. - art. D222-5 (V)
-
-
 #### Chapitre II : En temps de guerre
 
 ##### Section unique : De la délivrance des copies et extraits de jugement
@@ -20504,18 +20359,39 @@ l'intéressé.
 
 ###### Article D222-4
 
-Les dispositions des articles D. 221-1 et D. 221-2 sont applicables par les juridictions des forces armées du temps de
-guerre.
+Les droits perçus à la diligence de l'officier greffier, à l'occasion de la délivrance des copies de pièces de procédure et
+extraits de jugement, sont versés périodiquement au Trésor et imputés au compte  Recettes accidentelles à différents titres »
+du budget de l'exercice courant.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2014-749 du 30 juin 2014 - art. 4
+
+	**Cite**:
+
+	  - Code de justice militaire. - art. D221-1
+
+	**Anciens textes**:
+
+	  - Code de justice militaire. - art. D221-1 (T)
+
+
+###### Article D222-5
+
+Les extraits, expéditions ou copies demandées par les parquets et les administrations pour le compte de l'Etat sont délivrés
+à titre gratuit.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2008-691 du 10 juillet 2008 - art.
+	  - Décret n°2014-749 du 30 juin 2014 - art. 4
 
-	**Cite**:
+	**Anciens textes**:
 
-	  - Code de justice militaire. - art. D221-1 (T)
+	  - Code de justice militaire. - art. D221-2 (T)
 
 
 ### TITRE VI : DES PROCÉDURES D'EXÉCUTION
@@ -20615,20 +20491,18 @@ a) Experts et traducteurs-interprètes ;
 
 b) Personnes chargées des enquêtes sociales ou de personnalité ; 
 
-c) Personnes contribuant au contrôle judiciaire ; 
+c) Personnes contribuant au contrôle judiciaire. 
 
-d) Délégués du procureur de la République chargés d'une des missions prévues par les 1° à 4° de l'article 41-1 du code de
-procédure pénale ou intervenant au cours d'une composition pénale. 
-
-5° Les indemnités qui peuvent être accordées aux témoins civils et militaires, aux jurés par application des articles R. 123
-à R. 146 du code de procédure pénale et aux parties civiles par application des articles 375-1 et 422 du même code. 
+5° Les indemnités qui peuvent être accordées aux témoins civils et militaires par application des articles R. 123 à R. 133,
+R. 135 et R. 138 du code de procédure pénale ainsi qu'aux parties civiles par application de l'article L. 222-11 du présent
+code. 
 
 6° Les frais de saisie ou de mise sous séquestre ou en fourrière, ainsi que les frais en matière de scellés. 
 
 7° Les frais d'enquête sociale et d'expertise engagés en matière d'exécution ou d'application des peines et en matière de
 grâces. 
 
-8° Les émoluments et indemnités alloués aux huissiers de justice. 
+8° (Abrogé) 
 
 9° Les frais de capture et d'arrestation. 
 
@@ -20663,7 +20537,7 @@ demande des autorités judiciaires par les organismes agréés mentionnés à l'
 20° Les frais des administrateurs ad hoc lorsqu'ils figurent sur la liste prévue à l'article R. 53 du code de procédure
 pénale ou qu'il a été fait application des dispositions de l'article R. 53-6 du même code. 
 
-21° Les indemnités accordées en application de l'article 800-2 du code de procédure pénale. 
+21° (Abrogé) 
 
 22° Les frais correspondant à la fourniture des données conservées en application du II de l'article L. 34-1 du code des
 postes et des communications électroniques. 
@@ -20674,20 +20548,19 @@ postes et des communications électroniques.
 
 	**Cite**:
 
-	  - Loi n°90-1170 du 29 décembre 1990 (V)
-	  - Code des postes et des communications électroni... - art. L34-1 (V)
-	  - CODE DE PROCEDURE PENALE - art. 149 (V)
-	  - CODE DE PROCEDURE PENALE - art. 375-1 (V)
-	  - CODE DE PROCEDURE PENALE - art. 41-1 (V)
-	  - CODE DE PROCEDURE PENALE - art. 800-2 (V)
-	  - CODE DE PROCEDURE PENALE - art. R123 (V)
-	  - CODE DE PROCEDURE PENALE - art. R53 (V)
-	  - CODE DE PROCEDURE PENALE - art. R53-6 (V)
-	  - Code de justice militaire. - art. L212-173 (V)
+	  - Loi n°90-1170 du 29 décembre 1990
+	  - Code des postes et des communications électroniques - art. L34-1
+	  - Code de procédure pénale - art. 149
+	  - Code de procédure pénale - art. R123
+	  - Code de procédure pénale - art. R135
+	  - Code de procédure pénale - art. R53
+	  - Code de procédure pénale - art. R53-6
+	  - Code de justice militaire. - art. L212-173
+	  - Code de justice militaire. - art. L222-11
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-691 du 10 juillet 2008 - art.
+	  - Décret n°2014-749 du 30 juin 2014 - art. 5
 
 	**Cité par**:
 
@@ -20819,42 +20692,6 @@ militaires voyageant isolément.
 	  - CODE DE PROCEDURE PENALE - art. R123 (V)
 	  - CODE DE PROCEDURE PENALE - art. R127 (V)
 	  - CODE DE PROCEDURE PENALE - art. R135 (V)
-
-
-###### Article D269-10
-
-Les dispositions des articles R. 139 à R. 145 du code de procédure pénale sont applicables aux membres du jury criminel du
-tribunal aux armées. 
-
-Lorsqu'un juré se trouve dans l'impossibilité de faire l'avance de ses frais de voyage pour se rendre au lieu de convocation,
-il se présente au commandant d'armes de la place la plus proche qui, sur le vu de la notification et après vérification de
-son identité, détermine l'avance qui lui est indispensable pour déférer à sa convocation. 
-
-Le montant de l'avance peut être égal au prix d'un billet aller et retour quand le voyage s'effectue par un service de
-transport qui délivre des billets d'aller et de retour payables intégralement au moment du départ ; dans les autres cas, il
-ne doit pas excéder la moitié du montant de l'indemnité de transport auquel le juré peut prétendre. Le montant alloué est
-mentionné en marge ou au bas de la copie de la notification délivrée au juré. 
-
-Le commandant d'armes adresse ensuite à l'un des corps de la place une réquisition pour l'inviter à payer cette somme au
-juré.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-691 du 10 juillet 2008 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2014-749 du 30 juin 2014 - art. 5
-
-	**Cite**:
-
-	  - Code de procédure pénale - art. R139
-
-	**Cité par**:
-
-	  - Code de justice militaire. - art. D269-18 (V)
 
 
 ###### Article D269-11
@@ -20994,14 +20831,14 @@ ordonnateurs compétents sur le budget du ministère de la défense nationale.
 
 ###### Article D269-18
 
-Les frais visés aux articles D. 269-7, D. 269-8, D. 269-9, premier alinéa, D. 269-10, premier alinéa, D. 269-11 et D. 269-12,
-premier alinéa, peuvent être payés sur les fonds des régies d'avances instituées près les juridictions des forces armées.
+Les frais visés aux articles D. 269-7, D. 269-8, D. 269-9, premier alinéa,         D. 269-11 et D. 269-12, premier alinéa,
+peuvent être payés sur les fonds des régies d'avances instituées près les juridictions des forces armées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-691 du 10 juillet 2008 - art.
+	  - Décret n°2014-749 du 30 juin 2014 - art. 5
 
 	**Cite**:
 
