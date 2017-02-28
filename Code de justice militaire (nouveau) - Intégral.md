@@ -1,5 +1,5 @@
 # Code de justice militaire (nouveau)  
-Version Consolidée au 2016-12-20
+Version Consolidée au 2017-03-01
 
 # Partie législative
 
@@ -2244,8 +2244,8 @@ l'article 113-8 du code pénal et de celles de la présente section.
 
 ###### Article L211-12
 
-Les modes d'extinction de l'action publique prévus par les articles 6 à 9 du code de procédure pénale sont applicables, sous
-réserve des dispositions relatives à la prescription prévues à l'article L. 211-13.
+Les modes d'extinction de l'action publique prévus par les articles 6 à 9-3 du code de procédure pénale sont applicables,
+sous réserve des dispositions relatives à la prescription prévues à l'article L. 211-13.
 
 **Liens relatifs à cet article**
 
@@ -2256,11 +2256,12 @@ réserve des dispositions relatives à la prescription prévues à l'article L. 
 
 	**Modifié par**:
 
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 32
+	  - Loi n°2017-242 du 27 février 2017 - art. 3
 
 	**Cite**:
 
-	  - Code de procédure pénale - art. 9
+	  - Code de procédure pénale - art. 6
+	  - Code de justice militaire. - art. L211-13
 
 	**Cité par**:
 
@@ -3735,81 +3736,64 @@ militaire. La partie réglementaire a été publiée par le décret n° 2007-759
 
 ###### Article L212-37
 
-En matière de crime et sous réserve des dispositions de l'article 213-5 du code pénal, l'action publique se prescrit par dix
-années révolues à compter du jour où le crime a été commis si, dans cet intervalle, il n'a été fait aucun acte d'instruction
-ou de poursuite.
-
-S'il en a été effectué dans cet intervalle, elle ne se prescrit qu'après dix années révolues à compter du dernier acte. Il en
-est ainsi même à l'égard des personnes qui ne seraient pas impliquées dans cet acte d'instruction ou de poursuite.
-
-Lorsque la victime est mineure et que le crime a été commis par un ascendant légitime, naturel ou adoptif ou par une personne
-ayant autorité sur elle, le délai de prescription ne commence à courir qu'à partir de sa majorité.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+L'action publique des crimes se prescrit selon les règles prévues aux articles 7 et 9-1 à 9-3 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2017-242 du 27 février 2017 - art. 3
 
 	**Cite**:
 
-	  - Code pénal - art. 213-5 (M)
+	  - Code de procédure pénale - art. 7
+	  - Code de procédure pénale - art. 9-1
 
 
 ###### Article L212-38
 
-En matière de délit, la prescription de l'action publique est de trois années révolues ; elle s'accomplit selon les
-distinctions spécifiées à l'article L. 212-37.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+L'action publique des délits se prescrit selon les règles prévues aux articles 8 et 9-1 à 9-3 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2017-242 du 27 février 2017 - art. 3
 
 	**Cite**:
 
-	  - Code de justice militaire L212-37
+	  - Code de procédure pénale - art. 8
+	  - Code de procédure pénale - art. 9-1
 
 
 ###### Article L212-39
 
-En matière de contravention, la prescription de l'action publique est d'une année révolue ; elle s'accomplit selon les
-distinctions spécifiées à l'article L. 212-37.
-
-**Nota:**
-
-Ordonnance n° 2006-637 du 1er juin 2006 art. 4 : La présente ordonnance entre en vigueur le lendemain de la publication au
-Journal officiel de la République française du décret en Conseil d'Etat portant partie réglementaire du code de justice
-militaire. La partie réglementaire a été publiée par le décret n° 2007-759 du 10 mai 2007 dans le Journal officiel du 11 mai
-2007.
+L'action publique des contraventions se prescrit selon les règles prévues aux articles 9 à 9-3 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-637 2006-06-01 JORF 2 juin 2006
-	  - Loi n°2007-289 du 5 mars 2007 - art. 1, v. init.
+	  - Ordonnance n°2006-637 du 1 juin 2006
+	  - Loi n°2007-289 du 5 mars 2007 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2017-242 du 27 février 2017 - art. 3
 
 	**Cite**:
 
-	  - Code de justice militaire L212-37
+	  - Code de procédure pénale - art. 9
 
 
 ###### Article L212-40
